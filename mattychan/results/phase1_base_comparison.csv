@@ -1,0 +1,3 @@
+model,accuracy
+qwen2vl_2b,69.25098554533508
+llava_7b,45.11607533946562

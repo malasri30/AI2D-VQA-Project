@@ -1,0 +1,4 @@
+Condition,Overall Acc,abcLabel Acc,Descriptive Acc,Notes
+Base (zero-shot),69.25%,~69%,~69%,No fine-tuning
+Tuning A (image+Q),71.46%,42.62%,89.42%,Fine-tuned without annotation context
+Tuning B (image+Q+annotation),88.71%,93.29%,85.86%,Fine-tuned with annotation context

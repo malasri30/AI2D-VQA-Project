@@ -1,0 +1,2284 @@
+question_id,image_name,category,abc_label,raw_output,prediction,ground_truth,correct
+3216.png-0,3216.png,partsOfA,False,B) Flower,B,B,True
+3022.png-0,3022.png,partsOfA,False,B) ovule,B,B,True
+3022.png-1,3022.png,partsOfA,True,C,C,C,True
+2912.png-0,2912.png,partsOfA,False,B) Caudal Fin,B,B,True
+2912.png-2,2912.png,partsOfA,True,C,C,C,True
+2912.png-1,2912.png,partsOfA,True,C,C,C,True
+3089.png-2,3089.png,partsOfA,False,A) Dendrites,A,A,True
+3089.png-0,3089.png,partsOfA,False,D) Cell,D,A,False
+3089.png-1,3089.png,partsOfA,True,B) nerve ending,B,A,False
+3625.png-0,3625.png,partsOfA,False,A) Lung,A,A,True
+1086.png-1,1086.png,partsOfA,False,D) Midrib,D,D,True
+1086.png-0,1086.png,partsOfA,True,B) H,B,D,False
+1086.png-2,1086.png,partsOfA,True,C,C,B,False
+561.png-0,561.png,partsOfA,False,D) cuticle,D,D,True
+561.png-1,561.png,partsOfA,True,B) Stoma,B,A,False
+561.png-2,561.png,partsOfA,True,D) Palisade mesophyll,D,A,False
+3124.png-0,3124.png,partsOfA,False,C,C,C,True
+2940.png-1,2940.png,partsOfA,False,D) Tongue,D,D,True
+2940.png-0,2940.png,partsOfA,False,B,B,B,True
+2940.png-2,2940.png,partsOfA,True,D) C,D,A,False
+3486.png-0,3486.png,partsOfA,True,D) A,D,D,True
+3213.png-0,3213.png,partsOfA,False,D) roots,D,D,True
+3213.png-1,3213.png,partsOfA,False,C,C,C,True
+1091.png-0,1091.png,partsOfA,False,C,C,C,True
+3788.png-1,3788.png,partsOfA,True,C,C,C,True
+3788.png-0,3788.png,partsOfA,False,D) d,D,D,True
+994.png-0,994.png,partsOfA,True,B) vacuole,B,A,False
+3947.png-1,3947.png,partsOfA,True,C) cell wall,C,B,False
+3947.png-0,3947.png,partsOfA,False,A) flagellum,A,A,True
+3951.png-1,3951.png,partsOfA,False,C,C,C,True
+3951.png-2,3951.png,partsOfA,True,D) breast,D,B,False
+3951.png-3,3951.png,partsOfA,False,C,C,C,True
+3951.png-0,3951.png,partsOfA,True,D) Throat,D,D,True
+3736.png-0,3736.png,partsOfA,True,C,C,C,True
+3736.png-2,3736.png,partsOfA,False,C,C,C,True
+3736.png-1,3736.png,partsOfA,False,C) B,C,C,True
+3238.png-0,3238.png,partsOfA,False,B) Plasma membrane,B,B,True
+567.png-2,567.png,partsOfA,True,D) pith,D,A,False
+567.png-1,567.png,partsOfA,True,D) pith,D,D,True
+567.png-0,567.png,partsOfA,False,B,B,B,True
+567.png-3,567.png,partsOfA,False,D) terminal bud,D,D,True
+3230.png-0,3230.png,partsOfA,True,C) This outermost adds physical structure to a plant or fungal cell.,C,C,True
+3230.png-1,3230.png,partsOfA,True,A) A,A,B,False
+3612.png-1,3612.png,partsOfA,False,B,B,B,True
+3612.png-0,3612.png,partsOfA,True,C,C,C,True
+3612.png-2,3612.png,partsOfA,True,D,D,D,True
+3188.png-1,3188.png,partsOfA,True,A) roots,A,B,False
+3188.png-0,3188.png,partsOfA,True,D) roots,D,D,True
+3188.png-3,3188.png,partsOfA,False,B) Roots,B,B,True
+3188.png-2,3188.png,partsOfA,False,D) Plant,D,D,True
+1166.png-1,1166.png,partsOfA,True,D) Nucleolus,D,D,True
+1166.png-0,1166.png,partsOfA,True,C,C,B,False
+1068.png-0,1068.png,partsOfA,True,D) cytoplasm,D,D,True
+1149.png-0,1149.png,partsOfA,False,B) root tip,B,B,True
+3371.png-0,3371.png,partsOfA,False,B) Stigma,B,B,True
+3371.png-2,3371.png,partsOfA,True,D) Stigma,D,B,False
+3371.png-1,3371.png,partsOfA,True,C,C,B,False
+3200.png-0,3200.png,partsOfA,False,D) radicle,D,B,False
+3200.png-1,3200.png,partsOfA,True,A) Underground,A,A,True
+3730.png-0,3730.png,partsOfA,False,C,C,C,True
+3122.png-0,3122.png,partsOfA,True,B) The Power Cord,B,B,True
+3122.png-1,3122.png,partsOfA,True,D) H,D,D,True
+3979.png-1,3979.png,partsOfA,False,B,B,B,True
+3979.png-0,3979.png,partsOfA,True,C,C,A,False
+3979.png-2,3979.png,partsOfA,True,C,C,D,False
+3580.png-0,3580.png,partsOfA,False,D) roots,D,D,True
+3580.png-2,3580.png,partsOfA,False,B,B,B,True
+3580.png-1,3580.png,partsOfA,True,A) B,A,D,False
+3580.png-3,3580.png,partsOfA,True,A) C,A,A,True
+3108.png-1,3108.png,partsOfA,False,"C) No, it is the stalk that holds up the leaf on the branch",C,C,True
+3108.png-0,3108.png,partsOfA,False,"C) Yes, there is only one long vein down the leaf blade.",C,A,False
+3108.png-2,3108.png,partsOfA,True,B) A,B,D,False
+1323.png-0,1323.png,partsOfA,False,C,C,C,True
+1323.png-1,1323.png,partsOfA,False,C,C,C,True
+1323.png-2,1323.png,partsOfA,False,B) mrsh-marigold,B,B,True
+3234.png-1,3234.png,partsOfA,False,D) plasma membrane,D,D,True
+3234.png-0,3234.png,partsOfA,False,B) Nucleus,B,B,True
+2923.png-0,2923.png,partsOfA,False,B,B,B,True
+3843.png-0,3843.png,partsOfA,True,C,C,C,True
+3653.png-0,3653.png,partsOfA,True,C,C,D,False
+1222.png-2,1222.png,partsOfA,True,C) Cell wall,C,C,True
+1222.png-1,1222.png,partsOfA,False,B) Cell membrane,B,B,True
+1222.png-0,1222.png,partsOfA,False,A) Cell Wall,A,A,True
+3060.png-2,3060.png,partsOfA,False,B) nuclear envelope,B,B,True
+3060.png-1,3060.png,partsOfA,True,A) H,A,D,False
+3060.png-0,3060.png,partsOfA,True,B) J,B,C,False
+3157.png-0,3157.png,partsOfA,False,A) The roots.,A,A,True
+3157.png-1,3157.png,partsOfA,True,C,C,D,False
+3157.png-2,3157.png,partsOfA,True,C) Flower,C,C,True
+3460.png-0,3460.png,partsOfA,True,A) thorax,A,A,True
+1123.png-0,1123.png,partsOfA,False,D) midrib,D,D,True
+1123.png-1,1123.png,partsOfA,True,A,A,C,False
+3825.png-2,3825.png,partsOfA,True,C,C,C,True
+3825.png-1,3825.png,partsOfA,False,C,C,C,True
+3825.png-0,3825.png,partsOfA,False,D) square-shaped,D,D,True
+3093.png-1,3093.png,partsOfA,True,D) H,D,B,False
+3093.png-0,3093.png,partsOfA,False,C,C,C,True
+1218.png-0,1218.png,partsOfA,True,A) chloroplast,A,D,False
+1218.png-1,1218.png,partsOfA,True,C,C,C,True
+1403.png-1,1403.png,partsOfA,False,C,C,C,True
+1403.png-0,1403.png,partsOfA,True,C,C,C,True
+3436.png-0,3436.png,partsOfA,False,C,C,C,True
+3284.png-0,3284.png,partsOfA,True,D) Nucleus,D,D,True
+3681.png-0,3681.png,partsOfA,False,A) gallbladder,A,A,True
+3715.png-1,3715.png,partsOfA,False,A,A,A,True
+3715.png-0,3715.png,partsOfA,False,D) gallbladder,D,D,True
+3715.png-2,3715.png,partsOfA,True,C,C,D,False
+3015.png-1,3015.png,partsOfA,False,C,C,C,True
+3015.png-0,3015.png,partsOfA,False,D) Hypothalamus,D,D,True
+3904.png-0,3904.png,partsOfA,True,C,C,C,True
+2981.png-0,2981.png,partsOfA,True,D) nodes of ranvier,D,A,False
+3421.png-3,3421.png,partsOfA,False,A) pistil,A,A,True
+3421.png-1,3421.png,partsOfA,False,D) stem,D,D,True
+3421.png-0,3421.png,partsOfA,True,D) Style,D,C,False
+3421.png-2,3421.png,partsOfA,True,D) Petal,D,D,True
+2968.png-1,2968.png,partsOfA,True,C,C,C,True
+2968.png-0,2968.png,partsOfA,True,B) bark,B,B,True
+1156.png-0,1156.png,partsOfA,True,D) Style.,D,D,True
+3128.png-1,3128.png,partsOfA,True,D) a,D,C,False
+3128.png-0,3128.png,partsOfA,True,B) a,B,B,True
+3289.png-0,3289.png,partsOfA,True,D) peroxisome,D,D,True
+3289.png-1,3289.png,partsOfA,True,C,C,A,False
+3246.png-0,3246.png,partsOfA,True,"B) containing the cell's hereditary material and controlling its metabolism, growth,",B,B,True
+3246.png-1,3246.png,partsOfA,True,"A) A large, membrane-bound, usually spherical protoplasmic structure within",A,A,True
+3524.png-1,3524.png,partsOfA,True,B) nucleolus,B,B,True
+3524.png-0,3524.png,partsOfA,True,B) Mitochondrion,B,A,False
+3142.png-0,3142.png,partsOfA,True,A) Stolon,A,D,False
+3297.png-0,3297.png,partsOfA,True,D) Mitochondrion,D,A,False
+3713.png-1,3713.png,partsOfA,True,C,C,A,False
+3713.png-3,3713.png,partsOfA,False,C,C,C,True
+3713.png-2,3713.png,partsOfA,False,A) mouth,A,A,True
+3713.png-0,3713.png,partsOfA,True,D) gallbladder,D,A,False
+3400.png-1,3400.png,partsOfA,True,A) barrel,A,D,False
+3400.png-0,3400.png,partsOfA,True,D) barrel,D,A,False
+3400.png-2,3400.png,partsOfA,False,A) Sight,A,A,True
+3746.png-1,3746.png,partsOfA,True,B,B,B,True
+3746.png-0,3746.png,partsOfA,True,C,C,C,True
+2985.png-0,2985.png,partsOfA,False,D) C,D,D,True
+2985.png-1,2985.png,partsOfA,False,D) E,D,B,False
+3024.png-0,3024.png,partsOfA,False,B) Plant,B,B,True
+1115.png-1,1115.png,partsOfA,True,D) a,D,C,False
+1115.png-0,1115.png,partsOfA,True,A) it attaches the leaf to the stem,A,C,False
+3596.png-0,3596.png,partsOfA,True,B) The Paranasal Sinuses,B,A,False
+3596.png-1,3596.png,partsOfA,True,C),C,B,False
+3596.png-2,3596.png,partsOfA,False,C) nasal cavity,C,C,True
+717.png-0,717.png,partsOfA,True,C,C,B,False
+1133.png-0,1133.png,partsOfA,False,B) Root,B,B,True
+1133.png-1,1133.png,partsOfA,True,C,C,B,False
+3327.png-0,3327.png,partsOfA,False,C,C,C,True
+3251.png-0,3251.png,partsOfA,True,C,C,D,False
+3251.png-1,3251.png,partsOfA,True,D,D,C,False
+3816.png-0,3816.png,partsOfA,False,A) micropyle,A,A,True
+3872.png-1,3872.png,partsOfA,False,D) Tip,D,B,False
+3872.png-0,3872.png,partsOfA,True,D) G,D,B,False
+3872.png-2,3872.png,partsOfA,True,C,C,A,False
+3380.png-0,3380.png,partsOfA,False,B) Anthen,B,B,True
+3392.png-3,3392.png,partsOfA,False,"B) No, they are the last pair of legs",B,B,True
+3392.png-0,3392.png,partsOfA,False,A) The head,A,A,True
+3392.png-2,3392.png,partsOfA,True,D) E,D,A,False
+3392.png-1,3392.png,partsOfA,True,D) Prothorax,D,A,False
+3053.png-1,3053.png,partsOfA,True,D,D,C,False
+3053.png-0,3053.png,partsOfA,True,C,C,B,False
+2867.png-2,2867.png,partsOfA,False,B) chloroplast,B,B,True
+2867.png-0,2867.png,partsOfA,True,A) A,A,B,False
+2867.png-1,2867.png,partsOfA,True,D) F,D,D,True
+2937.png-0,2937.png,partsOfA,False,A) Membrane,A,A,True
+2937.png-2,2937.png,partsOfA,True,B) central fibre,B,B,True
+2937.png-1,2937.png,partsOfA,True,D,D,D,True
+3654.png-1,3654.png,partsOfA,True,D) right ventricle,D,A,False
+3654.png-0,3654.png,partsOfA,True,A) Tricuspid Valve,A,A,True
+3654.png-2,3654.png,partsOfA,False,B) Cardiac,B,B,True
+3389.png-1,3389.png,partsOfA,True,B) compound,B,B,True
+3389.png-0,3389.png,partsOfA,True,A) hindwing,A,B,False
+3160.png-2,3160.png,partsOfA,False,B) stamen,B,B,True
+3160.png-1,3160.png,partsOfA,True,D,D,D,True
+3160.png-0,3160.png,partsOfA,True,C) f,C,D,False
+1229.png-0,1229.png,partsOfA,False,C,C,C,True
+3239.png-1,3239.png,partsOfA,False,B) cell membrane,B,B,True
+3239.png-0,3239.png,partsOfA,False,D) animal cell,D,D,True
+3602.png-1,3602.png,partsOfA,True,B) Transmit air to the lungs,B,B,True
+3602.png-0,3602.png,partsOfA,False,C,C,C,True
+3377.png-0,3377.png,partsOfA,True,C,C,B,False
+3377.png-1,3377.png,partsOfA,True,C,C,C,True
+3561.png-2,3561.png,partsOfA,True,C,C,C,True
+3561.png-1,3561.png,partsOfA,True,A,A,A,True
+3561.png-0,3561.png,partsOfA,False,D) Rectum,D,D,True
+3711.png-0,3711.png,partsOfA,False,D,D,D,True
+3226.png-3,3226.png,partsOfA,False,B,B,B,True
+3226.png-0,3226.png,partsOfA,False,B) stamen,B,B,True
+3226.png-2,3226.png,partsOfA,True,C,C,C,True
+3226.png-1,3226.png,partsOfA,True,D) lowermost part of style,D,D,True
+3281.png-0,3281.png,partsOfA,True,D) K,D,C,False
+2939.png-0,2939.png,partsOfA,True,C,C,A,False
+2939.png-1,2939.png,partsOfA,True,D) A,D,D,True
+3684.png-0,3684.png,partsOfA,False,D,D,A,False
+3454.png-0,3454.png,partsOfA,False,C,C,C,True
+3254.png-0,3254.png,partsOfA,True,B) Mitochondria,B,B,True
+3254.png-1,3254.png,partsOfA,True,D) Plasma membrane,D,D,True
+3278.png-0,3278.png,partsOfA,False,B) Cell wall,B,B,True
+3278.png-2,3278.png,partsOfA,True,B) Vacuole,B,B,True
+3278.png-3,3278.png,partsOfA,False,C,C,C,True
+3278.png-1,3278.png,partsOfA,True,C) Vacuole,C,B,False
+2883.png-1,2883.png,partsOfA,True,A) Innermembrane space,A,A,True
+2883.png-0,2883.png,partsOfA,False,C,C,C,True
+3172.png-0,3172.png,partsOfA,False,D) roots,D,D,True
+3172.png-1,3172.png,partsOfA,False,D) flower,D,D,True
+3172.png-2,3172.png,partsOfA,True,D) A,D,D,True
+3772.png-0,3772.png,partsOfA,False,D) Eye,D,D,True
+3753.png-2,3753.png,partsOfA,True,D) The Hilum of Trachea,D,B,False
+3753.png-0,3753.png,partsOfA,False,C,C,C,True
+3753.png-1,3753.png,partsOfA,True,C,C,B,False
+1187.png-0,1187.png,partsOfA,False,B) AN ANIMAL CELL,B,B,True
+1332.png-0,1332.png,partsOfA,True,B) d,B,A,False
+1332.png-1,1332.png,partsOfA,True,B) c,B,A,False
+1065.png-1,1065.png,partsOfA,True,B,B,B,True
+1065.png-0,1065.png,partsOfA,True,A,A,D,False
+1065.png-2,1065.png,partsOfA,False,C) Golgi body,C,C,True
+3313.png-0,3313.png,partsOfA,True,D) 7,D,C,False
+3551.png-0,3551.png,partsOfA,False,B,B,B,True
+3551.png-1,3551.png,partsOfA,False,D,D,D,True
+3357.png-0,3357.png,partsOfA,True,C,C,C,True
+3881.png-0,3881.png,partsOfA,True,C,C,B,False
+3881.png-1,3881.png,partsOfA,True,C,C,C,True
+3647.png-0,3647.png,partsOfA,False,C,C,C,True
+3647.png-2,3647.png,partsOfA,True,C) The Right Ventricle,C,C,True
+3647.png-1,3647.png,partsOfA,True,D) B,D,A,False
+3395.png-0,3395.png,partsOfA,True,D) N and E,D,B,False
+1227.png-0,1227.png,partsOfA,False,B) nuclear membrane,B,B,True
+3708.png-0,3708.png,partsOfA,True,C,C,A,False
+2899.png-1,2899.png,partsOfA,True,D) Alveoli,D,B,False
+2899.png-0,2899.png,partsOfA,True,C,C,B,False
+3953.png-0,3953.png,partsOfA,True,D) p,D,C,False
+3510.png-2,3510.png,partsOfA,True,D) Chloroplast,D,C,False
+3510.png-0,3510.png,partsOfA,False,A) Cell wall,A,A,True
+3510.png-1,3510.png,partsOfA,False,C,C,C,True
+3412.png-0,3412.png,partsOfA,False,A) Cell membrane,A,A,True
+3611.png-0,3611.png,partsOfA,False,D,D,D,True
+1064.png-0,1064.png,partsOfA,True,C,C,C,True
+3105.png-1,3105.png,partsOfA,True,C,C,B,False
+3105.png-0,3105.png,partsOfA,True,C,C,C,True
+3283.png-0,3283.png,partsOfA,True,D) peroxisome,D,B,False
+3253.png-0,3253.png,partsOfA,False,D) chloroplast,D,D,True
+3741.png-0,3741.png,partsOfA,True,C,C,A,False
+3741.png-1,3741.png,partsOfA,True,B,B,B,True
+3826.png-0,3826.png,partsOfA,False,C,C,C,True
+3826.png-1,3826.png,partsOfA,True,D) Saddle,D,B,False
+3826.png-2,3826.png,partsOfA,True,A) sackbut,A,A,True
+1147.png-0,1147.png,partsOfA,False,B) root system,B,B,True
+3538.png-0,3538.png,partsOfA,True,C,C,D,False
+3538.png-1,3538.png,partsOfA,True,B) cytoplasm,B,B,True
+3456.png-1,3456.png,partsOfA,True,C,C,D,False
+3456.png-0,3456.png,partsOfA,False,B,B,B,True
+3779.png-0,3779.png,partsOfA,True,A) E,A,B,False
+3779.png-1,3779.png,partsOfA,False,B,B,B,True
+3944.png-0,3944.png,partsOfA,True,D) A,D,C,False
+3480.png-2,3480.png,partsOfA,False,B) Proboscis,B,B,True
+3480.png-0,3480.png,partsOfA,False,B) Compound eye,B,B,True
+3480.png-1,3480.png,partsOfA,True,D) c,D,B,False
+3480.png-3,3480.png,partsOfA,True,B) maxilla,B,B,True
+3926.png-1,3926.png,partsOfA,False,B,B,B,True
+3926.png-2,3926.png,partsOfA,True,C,C,B,False
+3926.png-0,3926.png,partsOfA,False,C,C,C,True
+2870.png-0,2870.png,partsOfA,True,D) B,D,B,False
+2964.png-0,2964.png,partsOfA,False,D) Frontal,D,D,True
+1163.png-2,1163.png,partsOfA,False,D) Flagellum,D,D,True
+1163.png-0,1163.png,partsOfA,False,A) Nucleus,A,A,True
+1163.png-1,1163.png,partsOfA,True,D) G,D,B,False
+3732.png-0,3732.png,partsOfA,False,D) T,D,D,True
+2979.png-0,2979.png,partsOfA,True,A) hard palate,A,C,False
+3760.png-1,3760.png,partsOfA,True,B,B,D,False
+3760.png-0,3760.png,partsOfA,False,D) diaphragm,D,D,True
+3760.png-2,3760.png,partsOfA,False,C,C,C,True
+3760.png-3,3760.png,partsOfA,True,D,D,D,True
+3184.png-0,3184.png,partsOfA,True,C,C,C,True
+3184.png-2,3184.png,partsOfA,True,B) Chloroplast,B,B,True
+3184.png-1,3184.png,partsOfA,False,C,C,C,True
+3119.png-0,3119.png,partsOfA,True,D,D,D,True
+3410.png-1,3410.png,partsOfA,False,B,B,A,False
+3410.png-2,3410.png,partsOfA,False,D) albumin,D,B,False
+3410.png-0,3410.png,partsOfA,True,A) D,A,B,False
+3039.png-0,3039.png,partsOfA,False,C,C,C,True
+3887.png-0,3887.png,partsOfA,False,B) Apical bud,B,B,True
+2976.png-1,2976.png,partsOfA,True,B) cell wall,B,B,True
+2976.png-2,2976.png,partsOfA,True,C,C,C,True
+2976.png-0,2976.png,partsOfA,False,D) Flagellum,D,D,True
+1096.png-1,1096.png,partsOfA,False,C,C,C,True
+1096.png-0,1096.png,partsOfA,True,D) axillary bud,D,B,False
+2853.png-1,2853.png,partsOfA,False,C,C,C,True
+2853.png-0,2853.png,partsOfA,True,D) K,D,A,False
+2853.png-2,2853.png,partsOfA,True,D) I,D,B,False
+3983.png-0,3983.png,partsOfA,False,D) pith,D,D,True
+3851.png-1,3851.png,partsOfA,False,D) oxygen,D,D,True
+3851.png-0,3851.png,partsOfA,False,B,B,B,True
+3851.png-2,3851.png,partsOfA,True,D) G,D,C,False
+3155.png-0,3155.png,partsOfA,False,B) Midrib,B,B,True
+1129.png-1,1129.png,partsOfA,False,C,C,C,True
+1129.png-0,1129.png,partsOfA,False,A) anther,A,C,False
+1175.png-0,1175.png,partsOfA,False,C,C,B,False
+1175.png-1,1175.png,partsOfA,False,C,C,C,True
+1179.png-1,1179.png,partsOfA,False,C,C,C,True
+1179.png-0,1179.png,partsOfA,False,B) Cell membrane,B,B,True
+3335.png-0,3335.png,partsOfA,False,D) Nuclear membrane,D,D,True
+3335.png-2,3335.png,partsOfA,True,B) protoplasm,B,A,False
+3335.png-1,3335.png,partsOfA,True,D) cell membrane,D,D,True
+3335.png-3,3335.png,partsOfA,False,C,C,C,True
+3171.png-0,3171.png,partsOfA,True,B) seed coat,B,B,True
+3171.png-1,3171.png,partsOfA,False,D) Seed coat,D,D,True
+3900.png-0,3900.png,partsOfA,True,D) Dicotyledon stem,D,A,False
+3475.png-1,3475.png,partsOfA,False,A) clypeus,A,A,True
+3475.png-0,3475.png,partsOfA,False,D) maxillary palp,D,D,True
+3464.png-1,3464.png,partsOfA,False,C,C,C,True
+3464.png-0,3464.png,partsOfA,False,C,C,C,True
+3243.png-0,3243.png,partsOfA,True,D) Golgi apparatus,D,D,True
+1111.png-0,1111.png,partsOfA,False,B,B,B,True
+1111.png-1,1111.png,partsOfA,True,D) Petiole,D,D,True
+1111.png-2,1111.png,partsOfA,False,D) Margin,D,D,True
+3476.png-2,3476.png,partsOfA,False,D) Cockroach,D,D,True
+3476.png-1,3476.png,partsOfA,True,C,C,B,False
+3476.png-0,3476.png,partsOfA,True,D) The submentum,D,D,True
+3379.png-3,3379.png,partsOfA,False,C) Flower,C,C,True
+3379.png-2,3379.png,partsOfA,False,D) Sepal,D,D,True
+3379.png-0,3379.png,partsOfA,True,C,C,A,False
+3379.png-1,3379.png,partsOfA,True,C,C,D,False
+1217.png-0,1217.png,partsOfA,True,C,C,D,False
+1217.png-1,1217.png,partsOfA,False,D) cell,D,D,True
+1217.png-2,1217.png,partsOfA,False,D,D,D,True
+1328.png-1,1328.png,partsOfA,False,B,B,B,True
+1328.png-0,1328.png,partsOfA,False,A) Larynx,A,A,True
+3751.png-0,3751.png,partsOfA,False,"B) No, people do not taste with their diaphragms.",B,B,True
+3856.png-0,3856.png,partsOfA,False,B) ground tissue,B,B,True
+3856.png-1,3856.png,partsOfA,True,B) d,B,B,True
+3488.png-0,3488.png,partsOfA,True,D) m,D,A,False
+4346.png-1,4346.png,typesOf,True,C,C,C,True
+4346.png-0,4346.png,typesOf,True,B,B,A,False
+10.png-1,10.png,typesOf,True,B) E,B,C,False
+10.png-0,10.png,typesOf,False,A) Citrullus,A,A,True
+4341.png-1,4341.png,typesOf,False,A) drupe,A,A,True
+4341.png-2,4341.png,typesOf,True,D) d,D,B,False
+4341.png-0,4341.png,typesOf,True,B) c,B,D,False
+720.png-1,720.png,typesOf,False,C,C,C,True
+720.png-0,720.png,typesOf,True,B,B,B,True
+720.png-2,720.png,typesOf,True,C,C,B,False
+4754.png-0,4754.png,typesOf,True,D) J,D,D,True
+4445.png-0,4445.png,typesOf,False,D) Sewing Machine,D,D,True
+4445.png-1,4445.png,typesOf,False,C,C,C,True
+984.png-2,984.png,typesOf,False,B) sepal,B,B,True
+984.png-1,984.png,typesOf,True,B) Funnelform,B,B,True
+984.png-0,984.png,typesOf,True,A) Petal,A,A,True
+4380.png-0,4380.png,typesOf,True,D) Secretary Bird,D,A,False
+4380.png-1,4380.png,typesOf,False,D,D,C,False
+4696.png-0,4696.png,typesOf,True,D,D,A,False
+4696.png-1,4696.png,typesOf,False,C,C,C,True
+4440.png-2,4440.png,typesOf,True,D) Pulley,D,D,True
+4440.png-0,4440.png,typesOf,False,B) Lever,B,B,True
+4440.png-1,4440.png,typesOf,False,C,C,C,True
+4677.png-3,4677.png,typesOf,False,A) iiki,A,A,True
+4677.png-0,4677.png,typesOf,True,C,C,C,True
+4677.png-1,4677.png,typesOf,True,D,D,A,False
+4677.png-2,4677.png,typesOf,False,A) cliff swallow,A,B,False
+1031.png-0,1031.png,typesOf,True,D) obovate,D,D,True
+1031.png-1,1031.png,typesOf,True,C,C,C,True
+4737.png-0,4737.png,typesOf,True,A,A,A,True
+4737.png-1,4737.png,typesOf,True,C,C,D,False
+826.png-3,826.png,typesOf,False,D) 4,D,A,False
+826.png-0,826.png,typesOf,False,D) 3,D,D,True
+826.png-2,826.png,typesOf,True,C,C,A,False
+826.png-4,826.png,typesOf,True,B) 3,B,B,True
+826.png-1,826.png,typesOf,True,A) Black soldier fly,A,A,True
+4340.png-0,4340.png,typesOf,False,D,D,B,False
+4340.png-1,4340.png,typesOf,False,C,C,C,True
+827.png-3,827.png,typesOf,True,D) House,D,A,False
+827.png-1,827.png,typesOf,True,D,D,C,False
+827.png-0,827.png,typesOf,True,C,C,C,True
+827.png-2,827.png,typesOf,True,B,B,C,False
+4404.png-0,4404.png,typesOf,False,C,C,A,False
+4404.png-1,4404.png,typesOf,True,B) Tree roots,B,B,True
+4452.png-0,4452.png,typesOf,False,A) Normal foot,A,A,True
+4452.png-1,4452.png,typesOf,False,A) Flat foot 1sr degree,A,D,False
+4452.png-2,4452.png,typesOf,True,A) B,A,A,True
+4452.png-3,4452.png,typesOf,True,B,B,C,False
+969.png-0,969.png,typesOf,True,B,B,C,False
+969.png-1,969.png,typesOf,True,D,D,C,False
+405.png-2,405.png,typesOf,True,A) D,A,B,False
+405.png-1,405.png,typesOf,True,"B) C on the left, D on the right",B,C,False
+405.png-0,405.png,typesOf,False,C,C,C,True
+4353.png-0,4353.png,typesOf,True,B) Nectarine,B,B,True
+4353.png-1,4353.png,typesOf,True,A) Ruby grapefruit,A,A,True
+4469.png-0,4469.png,typesOf,False,A) 3,A,A,True
+4469.png-1,4469.png,typesOf,False,D) Foot,D,D,True
+905.png-2,905.png,typesOf,False,B,B,B,True
+905.png-3,905.png,typesOf,False,B,B,B,True
+905.png-4,905.png,typesOf,False,C,C,C,True
+905.png-1,905.png,typesOf,False,D,D,D,True
+905.png-5,905.png,typesOf,False,B) plankton,B,B,True
+905.png-0,905.png,typesOf,False,D) sun,D,D,True
+631.png-0,631.png,typesOf,False,B) a,B,D,False
+631.png-1,631.png,typesOf,False,D),D,C,False
+1000.png-0,1000.png,typesOf,True,C,C,B,False
+1000.png-2,1000.png,typesOf,False,C) 3,C,C,True
+1000.png-1,1000.png,typesOf,False,A) Foot Types,A,A,True
+4656.png-2,4656.png,typesOf,True,A) A,A,B,False
+4656.png-0,4656.png,typesOf,False,C,C,C,True
+4656.png-1,4656.png,typesOf,False,D) Soldier,D,D,True
+4720.png-0,4720.png,typesOf,True,C,C,C,True
+4518.png-0,4518.png,typesOf,True,D) Palmately Compound,D,C,False
+4518.png-2,4518.png,typesOf,False,C,C,C,True
+4518.png-1,4518.png,typesOf,False,B) Palmately compound,B,B,True
+4398.png-1,4398.png,typesOf,True,C,C,B,False
+4398.png-0,4398.png,typesOf,True,C,C,D,False
+4755.png-1,4755.png,typesOf,True,A) palmately compound,A,B,False
+4755.png-0,4755.png,typesOf,False,A) 1,A,A,True
+4707.png-0,4707.png,typesOf,True,A) oblique,A,A,True
+4707.png-2,4707.png,typesOf,False,A) peltate,A,A,True
+4707.png-1,4707.png,typesOf,True,C) cuneate,C,C,True
+4712.png-2,4712.png,typesOf,True,D,D,D,True
+4712.png-1,4712.png,typesOf,True,D) E,D,D,True
+4712.png-0,4712.png,typesOf,False,B) First leaf,B,B,True
+972.png-0,972.png,typesOf,True,C,C,C,True
+4464.png-0,4464.png,typesOf,True,C,C,B,False
+4464.png-1,4464.png,typesOf,True,C,C,C,True
+4530.png-0,4530.png,typesOf,False,C,C,C,True
+4393.png-0,4393.png,typesOf,True,B) Stemclasping,B,B,True
+4393.png-1,4393.png,typesOf,False,C) Cordate and Sagittate,C,C,True
+958.png-0,958.png,typesOf,True,A) lobed,A,B,False
+958.png-1,958.png,typesOf,True,A) lanceolate,A,A,True
+987.png-2,987.png,typesOf,True,B) H,B,C,False
+987.png-1,987.png,typesOf,True,A) P,A,D,False
+987.png-0,987.png,typesOf,False,A) berry,A,A,True
+4747.png-0,4747.png,typesOf,True,D) F,D,C,False
+4747.png-3,4747.png,typesOf,True,C,C,D,False
+4747.png-1,4747.png,typesOf,False,B) (a),B,B,True
+4747.png-2,4747.png,typesOf,False,D) (d),D,D,True
+4725.png-0,4725.png,typesOf,True,C,C,C,True
+1008.png-0,1008.png,typesOf,False,C,C,C,True
+939.png-0,939.png,typesOf,False,D) 5,D,D,True
+939.png-1,939.png,typesOf,False,D) D,D,B,False
+4364.png-0,4364.png,typesOf,True,D) yellow,D,D,True
+4364.png-1,4364.png,typesOf,True,D) pineapple,D,C,False
+4604.png-2,4604.png,typesOf,False,D) adult,D,D,True
+4604.png-0,4604.png,typesOf,True,C,C,C,True
+4604.png-1,4604.png,typesOf,True,C,C,A,False
+981.png-1,981.png,typesOf,True,D,D,B,False
+981.png-0,981.png,typesOf,True,D) Germachranolide,D,D,True
+4671.png-1,4671.png,typesOf,False,A) Duck foot,A,A,True
+4671.png-0,4671.png,typesOf,True,B) Falcon,B,B,True
+4545.png-1,4545.png,typesOf,False,D) Dragonfly,D,D,True
+4545.png-0,4545.png,typesOf,False,D) Dragonfly,D,A,False
+4728.png-1,4728.png,typesOf,True,D,D,D,True
+4728.png-0,4728.png,typesOf,True,A) F,A,A,True
+1018.png-0,1018.png,typesOf,True,C,C,C,True
+1022.png-2,1022.png,typesOf,True,B) B,B,A,False
+1022.png-3,1022.png,typesOf,True,B) Leaves,B,B,True
+1022.png-0,1022.png,typesOf,False,C,C,C,True
+1022.png-1,1022.png,typesOf,False,C,C,D,False
+4831.png-0,4831.png,typesOf,False,C,C,C,True
+4533.png-1,4533.png,typesOf,False,A) adult,A,A,True
+4533.png-0,4533.png,typesOf,False,A) nymph,A,A,True
+4723.png-3,4723.png,typesOf,True,D) Cordate,D,B,False
+4723.png-1,4723.png,typesOf,False,C) Leaf shape,C,C,True
+4723.png-0,4723.png,typesOf,True,C,C,D,False
+4723.png-2,4723.png,typesOf,False,A) Deltoid,A,D,False
+4744.png-0,4744.png,typesOf,True,C) L,C,C,True
+4744.png-1,4744.png,typesOf,False,B) Serrate,B,B,True
+4540.png-3,4540.png,typesOf,True,A,A,A,True
+4540.png-1,4540.png,typesOf,True,B,B,A,False
+4540.png-0,4540.png,typesOf,False,B,B,B,True
+4540.png-2,4540.png,typesOf,False,A) Vortex,A,A,True
+4835.png-2,4835.png,typesOf,False,C) Actinostele,C,C,True
+4835.png-0,4835.png,typesOf,True,B) a,B,C,False
+4835.png-1,4835.png,typesOf,True,C) d,C,C,True
+4636.png-0,4636.png,typesOf,True,D,D,A,False
+4636.png-1,4636.png,typesOf,True,D) C,D,A,False
+940.png-0,940.png,typesOf,True,D) 30,D,C,False
+940.png-1,940.png,typesOf,True,D) 30,D,D,True
+1016.png-0,1016.png,typesOf,False,D,D,A,False
+4834.png-0,4834.png,typesOf,False,C,C,C,True
+4458.png-0,4458.png,typesOf,False,D) Stability,D,D,True
+4458.png-1,4458.png,typesOf,False,C,C,C,True
+986.png-0,986.png,typesOf,True,A) G,A,A,True
+986.png-1,986.png,typesOf,True,C,C,B,False
+962.png-2,962.png,typesOf,True,A) redbud,A,A,True
+962.png-0,962.png,typesOf,True,B) M,B,A,False
+962.png-1,962.png,typesOf,False,A) Hickory,A,A,True
+962.png-3,962.png,typesOf,False,D) Loblolly Pine,D,D,True
+4525.png-0,4525.png,typesOf,False,D) Petiole,D,D,True
+4525.png-1,4525.png,typesOf,False,A) Simple,A,A,True
+959.png-3,959.png,typesOf,False,D) This diagram shows many different kinds of leaves,D,D,True
+959.png-2,959.png,typesOf,False,C,C,C,True
+959.png-0,959.png,typesOf,True,C,C,D,False
+959.png-1,959.png,typesOf,True,B,B,D,False
+4607.png-0,4607.png,typesOf,True,D,D,C,False
+4739.png-0,4739.png,typesOf,False,D) plantago lanceolata,D,D,True
+4739.png-1,4739.png,typesOf,False,A) laurus nobli,A,A,True
+4421.png-0,4421.png,typesOf,True,B) oak,B,B,True
+4762.png-1,4762.png,typesOf,False,D) common leaf shapes,D,D,True
+4762.png-2,4762.png,typesOf,True,C,C,C,True
+4762.png-0,4762.png,typesOf,True,B) The letter V,B,B,True
+4501.png-1,4501.png,typesOf,True,B) A,B,B,True
+4501.png-0,4501.png,typesOf,False,A) entire,A,A,True
+4653.png-1,4653.png,typesOf,True,A) Different kinds of flies,A,A,True
+4653.png-0,4653.png,typesOf,True,C) A,C,C,True
+931.png-1,931.png,typesOf,True,D,D,B,False
+931.png-3,931.png,typesOf,True,C,C,C,True
+931.png-2,931.png,typesOf,False,C,C,C,True
+931.png-0,931.png,typesOf,False,A) Eagle,A,A,True
+891.png-1,891.png,typesOf,True,C,C,B,False
+891.png-2,891.png,typesOf,True,B) a pupa,B,B,True
+891.png-0,891.png,typesOf,False,B) eggs,B,B,True
+1279.png-0,1279.png,typesOf,False,A) 3,A,A,True
+1279.png-1,1279.png,typesOf,False,C,C,C,True
+4430.png-0,4430.png,typesOf,True,D) 6,D,D,True
+4430.png-1,4430.png,typesOf,True,C,C,B,False
+4793.png-0,4793.png,typesOf,False,A) butterfly,A,A,True
+4793.png-1,4793.png,typesOf,True,C,C,D,False
+4793.png-2,4793.png,typesOf,True,D) f,D,D,True
+1029.png-0,1029.png,typesOf,False,D,D,D,True
+1029.png-1,1029.png,typesOf,False,D) arcuate,D,D,True
+1029.png-3,1029.png,typesOf,True,C,C,C,True
+1029.png-2,1029.png,typesOf,True,D) D,D,D,True
+4711.png-1,4711.png,typesOf,False,C,C,C,True
+4711.png-0,4711.png,typesOf,False,C,C,C,True
+4383.png-0,4383.png,typesOf,True,D) A,D,D,True
+4813.png-2,4813.png,typesOf,True,B,B,D,False
+4813.png-1,4813.png,typesOf,False,C,C,C,True
+4813.png-0,4813.png,typesOf,False,A) Nostoc,A,A,True
+4813.png-3,4813.png,typesOf,True,D) microcystis,D,B,False
+975.png-0,975.png,typesOf,True,D,D,A,False
+975.png-1,975.png,typesOf,False,B) Basal,B,B,True
+4717.png-2,4717.png,typesOf,True,D) obovate,D,D,True
+4717.png-0,4717.png,typesOf,False,D) filiform,D,D,True
+4717.png-1,4717.png,typesOf,True,B) lanceolate,B,B,True
+4676.png-0,4676.png,typesOf,True,C) clupeidae,C,A,False
+4708.png-1,4708.png,typesOf,False,C,C,C,True
+4708.png-0,4708.png,typesOf,False,B) Cuneate,B,B,True
+4708.png-2,4708.png,typesOf,True,D) rounded,D,B,False
+839.png-0,839.png,typesOf,True,D) pupa,D,D,True
+839.png-1,839.png,typesOf,True,B) A,B,C,False
+839.png-2,839.png,typesOf,False,D) pupa,D,D,True
+4652.png-1,4652.png,typesOf,True,C,C,C,True
+4652.png-0,4652.png,typesOf,False,B) D,B,B,True
+2388.png-4,2388.png,typesOf,True,C,C,C,True
+2388.png-2,2388.png,typesOf,False,D) egg,D,D,True
+2388.png-0,2388.png,typesOf,True,C,C,A,False
+2388.png-1,2388.png,typesOf,True,D,D,B,False
+2388.png-3,2388.png,typesOf,False,D) monarch butterfly,D,D,True
+2388.png-5,2388.png,typesOf,True,C,C,B,False
+4709.png-0,4709.png,typesOf,True,C,C,C,True
+4709.png-2,4709.png,typesOf,False,B) sagittate,B,B,True
+4709.png-1,4709.png,typesOf,True,D,D,B,False
+2414.png-1,2414.png,typesOf,True,A),A,D,False
+2414.png-0,2414.png,typesOf,True,B,B,A,False
+4769.png-0,4769.png,typesOf,False,B) 5,B,B,True
+4769.png-1,4769.png,typesOf,True,D,D,D,True
+4769.png-2,4769.png,typesOf,True,D) A,D,B,False
+848.png-4,848.png,typesOf,False,A) polypneustic lobes,A,A,True
+848.png-2,848.png,typesOf,True,C,C,B,False
+848.png-3,848.png,typesOf,True,B) C,B,A,False
+848.png-1,848.png,typesOf,True,B) A,B,A,False
+848.png-0,848.png,typesOf,True,C,C,C,True
+4693.png-1,4693.png,typesOf,False,A,A,A,True
+4693.png-0,4693.png,typesOf,False,A,A,A,True
+4495.png-0,4495.png,typesOf,True,A) oblique,A,A,True
+4436.png-0,4436.png,typesOf,True,C,C,B,False
+4629.png-0,4629.png,typesOf,False,C,C,C,True
+4629.png-1,4629.png,typesOf,True,A) Dalmation Rock,A,A,True
+4455.png-0,4455.png,typesOf,True,D) B,D,A,False
+4455.png-1,4455.png,typesOf,True,D) A,D,D,True
+433.png-0,433.png,foodChainsWebs,False,D) algae,D,D,True
+433.png-1,433.png,foodChainsWebs,False,D) copepods,D,B,False
+433.png-5,433.png,foodChainsWebs,False,D) algae,D,D,True
+433.png-3,433.png,foodChainsWebs,False,B) producer,B,B,True
+433.png-2,433.png,foodChainsWebs,False,A) bacteria,A,A,True
+433.png-4,433.png,foodChainsWebs,False,D) all of the above,D,C,False
+15.png-1,15.png,foodChainsWebs,False,B),B,B,True
+15.png-0,15.png,foodChainsWebs,False,C,C,C,True
+15.png-2,15.png,foodChainsWebs,False,B) phytoplankton,B,B,True
+15.png-3,15.png,foodChainsWebs,False,D,D,D,True
+1910.png-2,1910.png,foodChainsWebs,False,C,C,A,False
+1910.png-4,1910.png,foodChainsWebs,False,C,C,A,False
+1910.png-0,1910.png,foodChainsWebs,False,B) Violet cockatoo,B,B,True
+1910.png-3,1910.png,foodChainsWebs,False,D,D,D,True
+1910.png-1,1910.png,foodChainsWebs,False,A) Nutpuff,A,A,True
+1771.png-2,1771.png,foodChainsWebs,False,D,D,B,False
+1771.png-3,1771.png,foodChainsWebs,False,C,C,A,False
+1771.png-5,1771.png,foodChainsWebs,False,D,D,A,False
+1771.png-6,1771.png,foodChainsWebs,False,A) sharks,A,A,True
+1771.png-7,1771.png,foodChainsWebs,False,D) dolphin,D,D,True
+1771.png-4,1771.png,foodChainsWebs,False,D) seagrass,D,C,False
+1771.png-1,1771.png,foodChainsWebs,False,C,C,C,True
+1771.png-8,1771.png,foodChainsWebs,False,A) Sea grass,A,A,True
+1771.png-0,1771.png,foodChainsWebs,False,C,C,C,True
+294.png-3,294.png,foodChainsWebs,False,C,C,C,True
+294.png-6,294.png,foodChainsWebs,False,C,C,C,True
+294.png-2,294.png,foodChainsWebs,False,B) Producer-consumer,B,B,True
+294.png-4,294.png,foodChainsWebs,False,D) The kingfishers would starve.,D,D,True
+294.png-9,294.png,foodChainsWebs,False,B) The small fish population would decrease.,B,B,True
+294.png-0,294.png,foodChainsWebs,False,B) it would decrease.,B,B,True
+294.png-5,294.png,foodChainsWebs,False,B) Water Beetle,B,B,True
+294.png-7,294.png,foodChainsWebs,False,C,C,C,True
+294.png-8,294.png,foodChainsWebs,False,C,C,C,True
+294.png-1,294.png,foodChainsWebs,False,A) The frog population would increase.,A,A,True
+1894.png-10,1894.png,foodChainsWebs,False,C,C,A,False
+1894.png-0,1894.png,foodChainsWebs,False,C,C,C,True
+1894.png-6,1894.png,foodChainsWebs,False,D) Small birds,D,D,True
+1894.png-8,1894.png,foodChainsWebs,False,D) plants,D,D,True
+1894.png-1,1894.png,foodChainsWebs,False,B) producer,B,B,True
+1894.png-9,1894.png,foodChainsWebs,False,C,C,C,True
+1894.png-4,1894.png,foodChainsWebs,False,C,C,C,True
+1894.png-2,1894.png,foodChainsWebs,False,A) hawk,A,A,True
+1894.png-5,1894.png,foodChainsWebs,False,C,C,C,True
+1894.png-3,1894.png,foodChainsWebs,False,A) dandelion,A,A,True
+1894.png-7,1894.png,foodChainsWebs,False,B) Plants,B,B,True
+254.png-1,254.png,foodChainsWebs,False,A) plants,A,A,True
+254.png-0,254.png,foodChainsWebs,False,D) carnivores,D,D,True
+254.png-2,254.png,foodChainsWebs,False,B) carnivores,B,B,True
+254.png-5,254.png,foodChainsWebs,False,D) primary,D,D,True
+254.png-3,254.png,foodChainsWebs,False,D) Carnivores,D,D,True
+254.png-4,254.png,foodChainsWebs,False,C,C,C,True
+1784.png-6,1784.png,foodChainsWebs,False,D) Increases,D,D,True
+1784.png-4,1784.png,foodChainsWebs,False,C,C,A,False
+1784.png-9,1784.png,foodChainsWebs,False,A) krill,A,A,True
+1784.png-0,1784.png,foodChainsWebs,False,"C) Phytoplankton, krill",C,C,True
+1784.png-1,1784.png,foodChainsWebs,False,C) krill,C,C,True
+1784.png-8,1784.png,foodChainsWebs,False,A) decrease,A,A,True
+1784.png-5,1784.png,foodChainsWebs,False,C) increases,C,C,True
+1784.png-7,1784.png,foodChainsWebs,False,A) decreases,A,A,True
+1784.png-2,1784.png,foodChainsWebs,False,D) Leopard seal,D,B,False
+1784.png-3,1784.png,foodChainsWebs,False,D) Phytoplankton,D,D,True
+2083.png-5,2083.png,foodChainsWebs,False,C,C,A,False
+2083.png-1,2083.png,foodChainsWebs,False,B,B,B,True
+2083.png-0,2083.png,foodChainsWebs,False,D) a source of energy for consumers,D,D,True
+2083.png-3,2083.png,foodChainsWebs,False,C,C,C,True
+2083.png-4,2083.png,foodChainsWebs,False,A) Grass,A,A,True
+2083.png-2,2083.png,foodChainsWebs,False,C,C,C,True
+705.png-5,705.png,foodChainsWebs,False,B,B,B,True
+705.png-1,705.png,foodChainsWebs,False,D,D,D,True
+705.png-7,705.png,foodChainsWebs,False,A) carnivore,A,A,True
+705.png-6,705.png,foodChainsWebs,False,C,C,C,True
+705.png-2,705.png,foodChainsWebs,False,D) Fish population would decrease.,D,D,True
+705.png-4,705.png,foodChainsWebs,False,B) a source of energy for consumers,B,B,True
+705.png-0,705.png,foodChainsWebs,False,D,D,D,True
+705.png-3,705.png,foodChainsWebs,False,D) Shark,D,D,True
+237.png-2,237.png,foodChainsWebs,False,C,C,C,True
+237.png-1,237.png,foodChainsWebs,False,B) carrots,B,B,True
+237.png-0,237.png,foodChainsWebs,False,D) bugs,D,A,False
+322.png-9,322.png,foodChainsWebs,False,C,C,A,False
+322.png-2,322.png,foodChainsWebs,False,B,B,B,True
+322.png-3,322.png,foodChainsWebs,False,C,C,C,True
+322.png-5,322.png,foodChainsWebs,False,A) more sharks,A,C,False
+322.png-4,322.png,foodChainsWebs,False,B,B,B,True
+322.png-8,322.png,foodChainsWebs,False,A) otter,A,A,True
+322.png-10,322.png,foodChainsWebs,False,B,B,B,True
+322.png-6,322.png,foodChainsWebs,False,A,A,A,True
+322.png-1,322.png,foodChainsWebs,False,C,C,C,True
+322.png-7,322.png,foodChainsWebs,False,D) Shark,D,D,True
+322.png-0,322.png,foodChainsWebs,False,A) Shark,A,A,True
+1930.png-3,1930.png,foodChainsWebs,False,D,D,D,True
+1930.png-1,1930.png,foodChainsWebs,False,B),B,B,True
+1930.png-2,1930.png,foodChainsWebs,False,B) plant,B,B,True
+1930.png-0,1930.png,foodChainsWebs,False,A) bear,A,A,True
+1930.png-4,1930.png,foodChainsWebs,False,A) eagle,A,A,True
+1899.png-5,1899.png,foodChainsWebs,False,C,C,C,True
+1899.png-6,1899.png,foodChainsWebs,False,B) orangutan,B,B,True
+1899.png-9,1899.png,foodChainsWebs,False,C,C,C,True
+1899.png-1,1899.png,foodChainsWebs,False,D) Plants,D,D,True
+1899.png-2,1899.png,foodChainsWebs,False,B) moneky,B,B,True
+1899.png-7,1899.png,foodChainsWebs,False,B) producer,B,B,True
+1899.png-0,1899.png,foodChainsWebs,False,D,D,D,True
+1899.png-3,1899.png,foodChainsWebs,False,C,C,C,True
+1899.png-8,1899.png,foodChainsWebs,False,C,C,C,True
+1899.png-4,1899.png,foodChainsWebs,False,B,B,B,True
+2019.png-3,2019.png,foodChainsWebs,False,C,C,C,True
+2019.png-2,2019.png,foodChainsWebs,False,C,C,C,True
+2019.png-0,2019.png,foodChainsWebs,False,B) secondary carnivores,B,A,False
+2019.png-1,2019.png,foodChainsWebs,False,A) hawk,A,A,True
+2019.png-4,2019.png,foodChainsWebs,False,A) plant,A,A,True
+1837.png-3,1837.png,foodChainsWebs,False,A) sunlight,A,A,True
+1837.png-0,1837.png,foodChainsWebs,False,C,C,C,True
+1837.png-1,1837.png,foodChainsWebs,False,C,C,C,True
+1837.png-2,1837.png,foodChainsWebs,False,C,C,C,True
+257.png-5,257.png,foodChainsWebs,False,D) mouse,D,A,False
+257.png-9,257.png,foodChainsWebs,False,C,C,C,True
+257.png-1,257.png,foodChainsWebs,False,B),B,B,True
+257.png-3,257.png,foodChainsWebs,False,C,C,A,False
+257.png-0,257.png,foodChainsWebs,False,D) snake,D,A,False
+257.png-8,257.png,foodChainsWebs,False,C,C,C,True
+257.png-2,257.png,foodChainsWebs,False,B,B,B,True
+257.png-6,257.png,foodChainsWebs,False,A) Rabbit,A,A,True
+257.png-7,257.png,foodChainsWebs,False,C,C,C,True
+257.png-4,257.png,foodChainsWebs,False,B) Lion and Hawk,B,B,True
+2011.png-9,2011.png,foodChainsWebs,False,A) Producers,A,A,True
+2011.png-4,2011.png,foodChainsWebs,False,A) Rabbits will starve,A,A,True
+2011.png-10,2011.png,foodChainsWebs,False,D) Rabbit,D,D,True
+2011.png-6,2011.png,foodChainsWebs,False,C,C,C,True
+2011.png-3,2011.png,foodChainsWebs,False,C,C,C,True
+2011.png-7,2011.png,foodChainsWebs,False,C,C,C,True
+2011.png-0,2011.png,foodChainsWebs,False,C,C,C,True
+2011.png-5,2011.png,foodChainsWebs,False,D) Owls decrease,D,B,False
+2011.png-11,2011.png,foodChainsWebs,False,C,C,C,True
+2011.png-1,2011.png,foodChainsWebs,False,B) owl,B,B,True
+2011.png-8,2011.png,foodChainsWebs,False,D) increase,D,D,True
+2011.png-2,2011.png,foodChainsWebs,False,B) Carnivore,B,B,True
+18.png-5,18.png,foodChainsWebs,False,D,D,B,False
+18.png-1,18.png,foodChainsWebs,False,B,B,B,True
+18.png-4,18.png,foodChainsWebs,False,C,C,C,True
+18.png-3,18.png,foodChainsWebs,False,D) Phytoplankton,D,A,False
+18.png-0,18.png,foodChainsWebs,False,B) Diatoms,B,B,True
+18.png-2,18.png,foodChainsWebs,False,A) Large Shark,A,A,True
+496.png-6,496.png,foodChainsWebs,False,B) A,B,B,True
+496.png-2,496.png,foodChainsWebs,False,D,D,A,False
+496.png-0,496.png,foodChainsWebs,False,D) A,D,A,False
+496.png-7,496.png,foodChainsWebs,False,B,B,B,True
+496.png-3,496.png,foodChainsWebs,False,D) you can't predict,D,C,False
+496.png-5,496.png,foodChainsWebs,False,D) b would decrease,D,D,True
+496.png-4,496.png,foodChainsWebs,False,C,C,A,False
+496.png-1,496.png,foodChainsWebs,False,C,C,B,False
+2091.png-5,2091.png,foodChainsWebs,False,D) soil,D,D,True
+2091.png-1,2091.png,foodChainsWebs,False,D) decay,D,D,True
+2091.png-3,2091.png,foodChainsWebs,False,C) animals,C,C,True
+2091.png-4,2091.png,foodChainsWebs,False,B) green plant,B,B,True
+2091.png-0,2091.png,foodChainsWebs,False,B) green plants,B,B,True
+2091.png-2,2091.png,foodChainsWebs,False,B,B,B,True
+1934.png-2,1934.png,foodChainsWebs,False,C,C,A,False
+1934.png-3,1934.png,foodChainsWebs,False,A) producer,A,A,True
+1934.png-0,1934.png,foodChainsWebs,False,A) plant,A,A,True
+1934.png-1,1934.png,foodChainsWebs,False,A) Bird,A,A,True
+2029.png-4,2029.png,foodChainsWebs,False,C,C,B,False
+2029.png-1,2029.png,foodChainsWebs,False,B) phytoplankton,B,B,True
+2029.png-5,2029.png,foodChainsWebs,False,B,B,D,False
+2029.png-6,2029.png,foodChainsWebs,False,D) large shark,D,D,True
+2029.png-8,2029.png,foodChainsWebs,False,D) increase,D,A,False
+2029.png-9,2029.png,foodChainsWebs,False,D) large shark,D,D,True
+2029.png-3,2029.png,foodChainsWebs,False,B) sun,B,B,True
+2029.png-10,2029.png,foodChainsWebs,False,A) Sun,A,A,True
+2029.png-11,2029.png,foodChainsWebs,False,B,B,C,False
+2029.png-7,2029.png,foodChainsWebs,False,C,C,C,True
+2029.png-0,2029.png,foodChainsWebs,False,B,B,B,True
+2029.png-2,2029.png,foodChainsWebs,False,A,A,A,True
+485.png-3,485.png,foodChainsWebs,False,B,B,C,False
+485.png-0,485.png,foodChainsWebs,False,A) Fox,A,A,True
+485.png-5,485.png,foodChainsWebs,False,B) Rabbits,B,B,True
+485.png-4,485.png,foodChainsWebs,False,C,C,C,True
+485.png-2,485.png,foodChainsWebs,False,B) Plant,B,B,True
+485.png-1,485.png,foodChainsWebs,False,C,C,C,True
+871.png-1,871.png,foodChainsWebs,False,D,D,A,False
+871.png-2,871.png,foodChainsWebs,False,A) The lizard's population will decrease.,A,A,True
+871.png-5,871.png,foodChainsWebs,False,D,D,D,True
+871.png-0,871.png,foodChainsWebs,False,C,C,C,True
+871.png-4,871.png,foodChainsWebs,False,A) True,A,A,True
+871.png-7,871.png,foodChainsWebs,False,B,B,B,True
+871.png-6,871.png,foodChainsWebs,False,A) duckweed,A,A,True
+871.png-8,871.png,foodChainsWebs,False,D) ducks would decrease,D,D,True
+871.png-3,871.png,foodChainsWebs,False,B) Hawk,B,B,True
+1813.png-2,1813.png,foodChainsWebs,False,B) racoon,B,B,True
+1813.png-8,1813.png,foodChainsWebs,False,C,C,C,True
+1813.png-5,1813.png,foodChainsWebs,False,A) wolf,A,A,True
+1813.png-7,1813.png,foodChainsWebs,False,B) cougar,B,B,True
+1813.png-4,1813.png,foodChainsWebs,False,A) Grass,A,A,True
+1813.png-0,1813.png,foodChainsWebs,False,D) Carnivores,D,D,True
+1813.png-1,1813.png,foodChainsWebs,False,B) Wolf,B,B,True
+1813.png-3,1813.png,foodChainsWebs,False,A) Bear,A,A,True
+1813.png-6,1813.png,foodChainsWebs,False,C,C,C,True
+1835.png-1,1835.png,foodChainsWebs,False,D) plants,D,D,True
+1835.png-5,1835.png,foodChainsWebs,False,C,C,C,True
+1835.png-4,1835.png,foodChainsWebs,False,C,C,C,True
+1835.png-2,1835.png,foodChainsWebs,False,D) owl,D,D,True
+1835.png-3,1835.png,foodChainsWebs,False,A) grass,A,A,True
+1835.png-0,1835.png,foodChainsWebs,False,A) owl,A,A,True
+1914.png-5,1914.png,foodChainsWebs,False,B,B,B,True
+1914.png-3,1914.png,foodChainsWebs,False,D) producer,D,D,True
+1914.png-9,1914.png,foodChainsWebs,False,C,C,C,True
+1914.png-11,1914.png,foodChainsWebs,False,A) hawk,A,A,True
+1914.png-1,1914.png,foodChainsWebs,False,A) grass,A,A,True
+1914.png-2,1914.png,foodChainsWebs,False,A) grasshopper,A,A,True
+1914.png-7,1914.png,foodChainsWebs,False,"D) Rabbit, Grasshopper, Field mouse.",D,D,True
+1914.png-4,1914.png,foodChainsWebs,False,C,C,B,False
+1914.png-10,1914.png,foodChainsWebs,False,A) grass,A,A,True
+1914.png-8,1914.png,foodChainsWebs,False,D) hawk,D,D,True
+1914.png-0,1914.png,foodChainsWebs,False,A) Predator,A,A,True
+1914.png-6,1914.png,foodChainsWebs,False,D,D,D,True
+533.png-4,533.png,foodChainsWebs,False,B) Arthropods,B,B,True
+533.png-3,533.png,foodChainsWebs,False,C,C,A,False
+533.png-6,533.png,foodChainsWebs,False,D) Protozoa and arthropods(shredders) population will decrease,D,D,True
+533.png-5,533.png,foodChainsWebs,False,D) predator.,D,D,True
+533.png-0,533.png,foodChainsWebs,False,A) decrease,A,A,True
+533.png-2,533.png,foodChainsWebs,False,C,C,C,True
+533.png-1,533.png,foodChainsWebs,False,A) bird,A,A,True
+381.png-1,381.png,foodChainsWebs,False,A) 2,A,A,True
+381.png-9,381.png,foodChainsWebs,False,A) Secondary consumers would starve,A,A,True
+381.png-5,381.png,foodChainsWebs,False,D) 3,D,D,True
+381.png-6,381.png,foodChainsWebs,False,D) 2,D,D,True
+381.png-3,381.png,foodChainsWebs,False,D) plants,D,D,True
+381.png-7,381.png,foodChainsWebs,False,D) birds,D,D,True
+381.png-8,381.png,foodChainsWebs,False,C,C,D,False
+381.png-2,381.png,foodChainsWebs,False,B,B,B,True
+381.png-0,381.png,foodChainsWebs,False,D,D,D,True
+381.png-4,381.png,foodChainsWebs,False,B,B,B,True
+915.png-1,915.png,foodChainsWebs,False,D) fox,D,A,False
+915.png-7,915.png,foodChainsWebs,False,C,C,B,False
+915.png-6,915.png,foodChainsWebs,False,C) an increase in foxes,C,A,False
+915.png-0,915.png,foodChainsWebs,False,C,C,C,True
+915.png-2,915.png,foodChainsWebs,False,D) python,D,C,False
+915.png-5,915.png,foodChainsWebs,False,C,C,C,True
+915.png-4,915.png,foodChainsWebs,False,A) python,A,A,True
+915.png-9,915.png,foodChainsWebs,False,C,C,B,False
+915.png-8,915.png,foodChainsWebs,False,A) plant,A,A,True
+915.png-3,915.png,foodChainsWebs,False,D) python,D,D,True
+245.png-1,245.png,foodChainsWebs,False,A) shrimp,A,A,True
+245.png-12,245.png,foodChainsWebs,False,C) decrease,C,C,True
+245.png-6,245.png,foodChainsWebs,False,B) increase,B,B,True
+245.png-3,245.png,foodChainsWebs,False,B) shrimp decreases,B,A,False
+245.png-4,245.png,foodChainsWebs,False,A) algae,A,A,True
+245.png-10,245.png,foodChainsWebs,False,B) decrease,B,B,True
+245.png-9,245.png,foodChainsWebs,False,C,C,A,False
+245.png-2,245.png,foodChainsWebs,False,C,C,A,False
+245.png-8,245.png,foodChainsWebs,False,C,C,C,True
+245.png-5,245.png,foodChainsWebs,False,C,C,C,True
+245.png-7,245.png,foodChainsWebs,False,D) shrimp,D,D,True
+245.png-13,245.png,foodChainsWebs,False,A) algae,A,A,True
+245.png-11,245.png,foodChainsWebs,False,C,C,C,True
+245.png-0,245.png,foodChainsWebs,False,D,D,D,True
+1842.png-6,1842.png,foodChainsWebs,False,D) primary consumer,D,D,True
+1842.png-0,1842.png,foodChainsWebs,False,D,D,D,True
+1842.png-3,1842.png,foodChainsWebs,False,D,D,D,True
+1842.png-1,1842.png,foodChainsWebs,False,C,C,C,True
+1842.png-7,1842.png,foodChainsWebs,False,A) Producer,A,A,True
+1842.png-9,1842.png,foodChainsWebs,False,A) human,A,A,True
+1842.png-5,1842.png,foodChainsWebs,False,D) fewer insects,D,A,False
+1842.png-4,1842.png,foodChainsWebs,False,B,B,B,True
+1842.png-2,1842.png,foodChainsWebs,False,D,D,D,True
+1842.png-8,1842.png,foodChainsWebs,False,D,D,C,False
+1773.png-1,1773.png,foodChainsWebs,False,C) 3,C,B,False
+1773.png-7,1773.png,foodChainsWebs,False,C) 1,C,C,True
+1773.png-0,1773.png,foodChainsWebs,False,A) fan worm,A,B,False
+1773.png-2,1773.png,foodChainsWebs,False,A) turtle grass,A,A,True
+1773.png-11,1773.png,foodChainsWebs,False,C) There would be fewer reef lobsters,C,B,False
+1773.png-3,1773.png,foodChainsWebs,False,D) nurse sharks,D,D,True
+1773.png-4,1773.png,foodChainsWebs,False,C,C,C,True
+1773.png-8,1773.png,foodChainsWebs,False,"D) Nurse shark, reef lobster, giant clam, clown fish",D,D,True
+1773.png-5,1773.png,foodChainsWebs,False,A) Nurse Shark,A,A,True
+1773.png-10,1773.png,foodChainsWebs,False,B,B,B,True
+1773.png-6,1773.png,foodChainsWebs,False,D) Predator,D,D,True
+1773.png-9,1773.png,foodChainsWebs,False,B) Green Sea Turtle,B,B,True
+265.png-9,265.png,foodChainsWebs,False,D) 3,D,C,False
+265.png-4,265.png,foodChainsWebs,False,D) deer,D,D,True
+265.png-1,265.png,foodChainsWebs,False,"A) Deer, Mice, Insects, Toads, Skunks.",A,A,True
+265.png-3,265.png,foodChainsWebs,False,C) a decrease in coyotes,C,C,True
+265.png-7,265.png,foodChainsWebs,False,C,C,C,True
+265.png-2,265.png,foodChainsWebs,False,D) an increase in green plants,D,C,False
+265.png-5,265.png,foodChainsWebs,False,A) Coyotes,A,A,True
+265.png-8,265.png,foodChainsWebs,False,C,C,C,True
+265.png-0,265.png,foodChainsWebs,False,B),B,B,True
+265.png-6,265.png,foodChainsWebs,False,"A) coyotes, skunks are carnivores organisms",A,A,True
+456.png-4,456.png,foodChainsWebs,False,"D) oats clover , sunflower",D,D,True
+456.png-0,456.png,foodChainsWebs,False,A) Decrease in the population of rabbits and field mouse,A,A,True
+456.png-7,456.png,foodChainsWebs,False,C,C,C,True
+456.png-1,456.png,foodChainsWebs,False,A) Red-tailed hawk,A,A,True
+456.png-8,456.png,foodChainsWebs,False,D) oat,D,D,True
+456.png-10,456.png,foodChainsWebs,False,D) oats,D,D,True
+456.png-2,456.png,foodChainsWebs,False,B) red-tailed hawk,B,B,True
+456.png-3,456.png,foodChainsWebs,False,B) decrease,B,B,True
+456.png-6,456.png,foodChainsWebs,False,D) Decrease,D,D,True
+456.png-9,456.png,foodChainsWebs,False,C,C,A,False
+456.png-5,456.png,foodChainsWebs,False,C,C,C,True
+2092.png-0,2092.png,foodChainsWebs,False,B) consumers,B,B,True
+2092.png-1,2092.png,foodChainsWebs,False,B) organic material,B,B,True
+2092.png-2,2092.png,foodChainsWebs,False,B,B,A,False
+1830.png-7,1830.png,foodChainsWebs,False,A) Polar bear,A,A,True
+1830.png-2,1830.png,foodChainsWebs,False,C,C,C,True
+1830.png-10,1830.png,foodChainsWebs,False,A) beare,A,A,True
+1830.png-8,1830.png,foodChainsWebs,False,B) algae,B,B,True
+1830.png-11,1830.png,foodChainsWebs,False,B) shrimp,B,B,True
+1830.png-5,1830.png,foodChainsWebs,False,B) decrease,B,B,True
+1830.png-0,1830.png,foodChainsWebs,False,D) decrease,D,D,True
+1830.png-9,1830.png,foodChainsWebs,False,B) decrease,B,B,True
+1830.png-3,1830.png,foodChainsWebs,False,D) decrease,D,D,True
+1830.png-4,1830.png,foodChainsWebs,False,B) algae,B,B,True
+1830.png-1,1830.png,foodChainsWebs,False,A) polar bear,A,A,True
+1830.png-6,1830.png,foodChainsWebs,False,C,C,C,True
+2003.png-2,2003.png,foodChainsWebs,False,C,C,A,False
+2003.png-7,2003.png,foodChainsWebs,False,A) Carnivores,A,A,True
+2003.png-8,2003.png,foodChainsWebs,False,C,C,C,True
+2003.png-9,2003.png,foodChainsWebs,False,B) Deer will decrease,B,B,True
+2003.png-4,2003.png,foodChainsWebs,False,B) Rabbit,B,B,True
+2003.png-0,2003.png,foodChainsWebs,False,C,C,C,True
+2003.png-1,2003.png,foodChainsWebs,False,D) coyote,D,C,False
+2003.png-6,2003.png,foodChainsWebs,False,B) Fewer rabbits,B,B,True
+2003.png-3,2003.png,foodChainsWebs,False,A) coyote,A,A,True
+2003.png-5,2003.png,foodChainsWebs,False,D) flowre,D,D,True
+519.png-3,519.png,foodChainsWebs,False,A) Brine shrimp,A,D,False
+519.png-5,519.png,foodChainsWebs,False,A) The bacteria are decomposers.,A,A,True
+519.png-8,519.png,foodChainsWebs,False,C,C,D,False
+519.png-0,519.png,foodChainsWebs,False,A) brine flies,A,A,True
+519.png-1,519.png,foodChainsWebs,False,D) algae,D,D,True
+519.png-4,519.png,foodChainsWebs,False,D) gulls,D,D,True
+519.png-2,519.png,foodChainsWebs,False,C,C,C,True
+519.png-6,519.png,foodChainsWebs,False,B) Coastal food web,B,B,True
+519.png-7,519.png,foodChainsWebs,False,D,D,D,True
+1985.png-1,1985.png,foodChainsWebs,False,D) all of the above,D,A,False
+1985.png-8,1985.png,foodChainsWebs,False,A) grasses,A,A,True
+1985.png-2,1985.png,foodChainsWebs,False,A) grasses,A,A,True
+1985.png-9,1985.png,foodChainsWebs,False,C,C,C,True
+1985.png-5,1985.png,foodChainsWebs,False,C,C,C,True
+1985.png-10,1985.png,foodChainsWebs,False,B) Predator,B,B,True
+1985.png-0,1985.png,foodChainsWebs,False,D) Primary Consumer,D,D,True
+1985.png-6,1985.png,foodChainsWebs,False,B) grasses,B,B,True
+1985.png-4,1985.png,foodChainsWebs,False,C,C,C,True
+1985.png-7,1985.png,foodChainsWebs,False,C,C,C,True
+1985.png-3,1985.png,foodChainsWebs,False,D) mouse,D,D,True
+2116.png-5,2116.png,foodChainsWebs,False,D) All of the Above,D,C,False
+2116.png-4,2116.png,foodChainsWebs,False,C) Insects disappear,C,A,False
+2116.png-0,2116.png,foodChainsWebs,False,C,C,C,True
+2116.png-1,2116.png,foodChainsWebs,False,B) Spider,B,B,True
+2116.png-7,2116.png,foodChainsWebs,False,C,C,B,False
+2116.png-6,2116.png,foodChainsWebs,False,A) spartina,A,A,True
+2116.png-3,2116.png,foodChainsWebs,False,D,D,D,True
+2116.png-2,2116.png,foodChainsWebs,False,D,D,C,False
+2007.png-7,2007.png,foodChainsWebs,False,B) Plants,B,B,True
+2007.png-10,2007.png,foodChainsWebs,False,D) decrease,D,A,False
+2007.png-2,2007.png,foodChainsWebs,False,B) mahogany tree,B,B,True
+2007.png-6,2007.png,foodChainsWebs,False,C) Decrease in Red Mangrove,C,C,True
+2007.png-4,2007.png,foodChainsWebs,False,A) mahogany,A,A,True
+2007.png-8,2007.png,foodChainsWebs,False,B) mahogany,B,B,True
+2007.png-0,2007.png,foodChainsWebs,False,C,C,C,True
+2007.png-1,2007.png,foodChainsWebs,False,C,C,C,True
+2007.png-11,2007.png,foodChainsWebs,False,B) Beetle,B,B,True
+2007.png-5,2007.png,foodChainsWebs,False,B,B,B,True
+2007.png-3,2007.png,foodChainsWebs,False,C,C,C,True
+2007.png-9,2007.png,foodChainsWebs,False,C,C,C,True
+1872.png-5,1872.png,foodChainsWebs,False,B) producer to primary consumer,B,B,True
+1872.png-2,1872.png,foodChainsWebs,False,C,C,C,True
+1872.png-7,1872.png,foodChainsWebs,False,D) primary consumer,D,C,False
+1872.png-0,1872.png,foodChainsWebs,False,A) humans,A,A,True
+1872.png-3,1872.png,foodChainsWebs,False,A) primary consumer,A,D,False
+1872.png-4,1872.png,foodChainsWebs,False,C,C,C,True
+1872.png-6,1872.png,foodChainsWebs,False,C,C,C,True
+1872.png-1,1872.png,foodChainsWebs,False,B) Dog,B,C,False
+1872.png-8,1872.png,foodChainsWebs,False,B,B,B,True
+2126.png-2,2126.png,foodChainsWebs,False,C,C,C,True
+2126.png-6,2126.png,foodChainsWebs,False,C,C,C,True
+2126.png-10,2126.png,foodChainsWebs,False,C,C,C,True
+2126.png-3,2126.png,foodChainsWebs,False,B) vegetation,B,B,True
+2126.png-1,2126.png,foodChainsWebs,False,D,D,D,True
+2126.png-8,2126.png,foodChainsWebs,False,A) Wading birds,A,A,True
+2126.png-0,2126.png,foodChainsWebs,False,B,B,B,True
+2126.png-11,2126.png,foodChainsWebs,False,D,D,D,True
+2126.png-9,2126.png,foodChainsWebs,False,C,C,C,True
+2126.png-5,2126.png,foodChainsWebs,False,B) Phytoplankton and vegetation,B,B,True
+2126.png-7,2126.png,foodChainsWebs,False,B) herbivorous duck,B,B,True
+2126.png-4,2126.png,foodChainsWebs,False,D,D,D,True
+2111.png-8,2111.png,foodChainsWebs,False,D) grass,D,D,True
+2111.png-2,2111.png,foodChainsWebs,False,A) grasses,A,A,True
+2111.png-3,2111.png,foodChainsWebs,False,C,C,C,True
+2111.png-9,2111.png,foodChainsWebs,False,C,C,C,True
+2111.png-6,2111.png,foodChainsWebs,False,C,C,C,True
+2111.png-0,2111.png,foodChainsWebs,False,B,B,B,True
+2111.png-10,2111.png,foodChainsWebs,False,D) All of the above,D,D,True
+2111.png-5,2111.png,foodChainsWebs,False,B) Grass,B,B,True
+2111.png-7,2111.png,foodChainsWebs,False,C,C,C,True
+2111.png-1,2111.png,foodChainsWebs,False,C,C,B,False
+2111.png-4,2111.png,foodChainsWebs,False,D) Fox,D,D,True
+325.png-9,325.png,foodChainsWebs,False,D,D,D,True
+325.png-3,325.png,foodChainsWebs,False,B,B,B,True
+325.png-7,325.png,foodChainsWebs,False,A) They will starve.,A,C,False
+325.png-1,325.png,foodChainsWebs,False,D) crab decreases,D,A,False
+325.png-0,325.png,foodChainsWebs,False,D,D,D,True
+325.png-10,325.png,foodChainsWebs,False,C,C,C,True
+325.png-4,325.png,foodChainsWebs,False,B,B,B,True
+325.png-5,325.png,foodChainsWebs,False,A) kelp,A,A,True
+325.png-6,325.png,foodChainsWebs,False,A) snail,A,A,True
+325.png-2,325.png,foodChainsWebs,False,D) predator,D,D,True
+325.png-11,325.png,foodChainsWebs,False,C,C,C,True
+325.png-8,325.png,foodChainsWebs,False,D,D,D,True
+396.png-9,396.png,foodChainsWebs,False,B) decrease,B,B,True
+396.png-7,396.png,foodChainsWebs,False,D) eagle,D,D,True
+396.png-0,396.png,foodChainsWebs,False,C) producer,C,C,True
+396.png-8,396.png,foodChainsWebs,False,B) rabbit,B,B,True
+396.png-3,396.png,foodChainsWebs,False,D) plant,D,D,True
+396.png-5,396.png,foodChainsWebs,False,D) rabbits increase,D,D,True
+396.png-2,396.png,foodChainsWebs,False,B) increase,B,B,True
+396.png-4,396.png,foodChainsWebs,False,B) decrease,B,B,True
+396.png-6,396.png,foodChainsWebs,False,B,B,A,False
+396.png-10,396.png,foodChainsWebs,False,A) Plants,A,A,True
+396.png-1,396.png,foodChainsWebs,False,B,B,A,False
+795.png-1,795.png,foodChainsWebs,False,D) Tiger snake and Dingo.,D,D,True
+795.png-3,795.png,foodChainsWebs,False,B) Tree,B,B,True
+795.png-11,795.png,foodChainsWebs,False,C,C,C,True
+795.png-0,795.png,foodChainsWebs,False,A) golden sun moth,A,A,True
+795.png-9,795.png,foodChainsWebs,False,B) Trees and Wallaby Grass.,B,B,True
+795.png-7,795.png,foodChainsWebs,False,D) Predator,D,D,True
+795.png-4,795.png,foodChainsWebs,False,A) tree,A,A,True
+795.png-6,795.png,foodChainsWebs,False,D) ants would die,D,D,True
+795.png-5,795.png,foodChainsWebs,False,D) Prey and predator,D,D,True
+795.png-10,795.png,foodChainsWebs,False,A) Trees,A,A,True
+795.png-2,795.png,foodChainsWebs,False,A) Tiger Snake,A,A,True
+795.png-8,795.png,foodChainsWebs,False,C,C,C,True
+1807.png-3,1807.png,foodChainsWebs,False,D,D,D,True
+1807.png-0,1807.png,foodChainsWebs,False,B) from Mule deer to Mountain lion,B,B,True
+1807.png-5,1807.png,foodChainsWebs,False,B) decrease,B,B,True
+1807.png-7,1807.png,foodChainsWebs,False,C) decrease in lion,C,C,True
+1807.png-10,1807.png,foodChainsWebs,False,A) pika will decrease,A,A,True
+1807.png-1,1807.png,foodChainsWebs,False,"B) ring tail, raven",B,B,True
+1807.png-6,1807.png,foodChainsWebs,False,D) bobcat,D,D,True
+1807.png-4,1807.png,foodChainsWebs,False,D) the insects and plants population would increase and the ringtails population would decrease,D,D,True
+1807.png-8,1807.png,foodChainsWebs,False,C,C,C,True
+1807.png-9,1807.png,foodChainsWebs,False,C,C,C,True
+1807.png-2,1807.png,foodChainsWebs,False,D,D,D,True
+1994.png-11,1994.png,foodChainsWebs,False,B,B,B,True
+1994.png-10,1994.png,foodChainsWebs,False,C,C,C,True
+1994.png-0,1994.png,foodChainsWebs,False,D) animals,D,D,True
+1994.png-5,1994.png,foodChainsWebs,False,C,C,C,True
+1994.png-2,1994.png,foodChainsWebs,False,C) Number of animals increase,C,D,False
+1994.png-4,1994.png,foodChainsWebs,False,B) producer,B,B,True
+1994.png-6,1994.png,foodChainsWebs,False,A) arthropods,A,A,True
+1994.png-1,1994.png,foodChainsWebs,False,A) organic matter,A,A,True
+1994.png-7,1994.png,foodChainsWebs,False,B) arthropods,B,B,True
+1994.png-8,1994.png,foodChainsWebs,False,D) birds,D,D,True
+1994.png-3,1994.png,foodChainsWebs,False,D) arthropods,D,D,True
+1994.png-9,1994.png,foodChainsWebs,False,A) Bacteria,A,A,True
+910.png-9,910.png,foodChainsWebs,False,C,C,C,True
+910.png-4,910.png,foodChainsWebs,False,B) sea anemone population decreases,B,B,True
+910.png-5,910.png,foodChainsWebs,False,B) increase,B,B,True
+910.png-0,910.png,foodChainsWebs,False,D) shrimp,D,B,False
+910.png-10,910.png,foodChainsWebs,False,D,D,D,True
+910.png-8,910.png,foodChainsWebs,False,D,D,A,False
+910.png-6,910.png,foodChainsWebs,False,A) Mussel,A,C,False
+910.png-2,910.png,foodChainsWebs,False,D,D,B,False
+910.png-7,910.png,foodChainsWebs,False,D) The crab population would increase.,D,D,True
+910.png-1,910.png,foodChainsWebs,False,C,C,A,False
+910.png-3,910.png,foodChainsWebs,False,D,D,D,True
+2084.png-4,2084.png,foodChainsWebs,False,C,C,C,True
+2084.png-6,2084.png,foodChainsWebs,False,D) Monkey,D,D,True
+2084.png-0,2084.png,foodChainsWebs,False,D,D,D,True
+2084.png-3,2084.png,foodChainsWebs,False,D,D,C,False
+2084.png-1,2084.png,foodChainsWebs,False,B,B,B,True
+2084.png-8,2084.png,foodChainsWebs,False,B,B,B,True
+2084.png-2,2084.png,foodChainsWebs,False,D) lion,D,D,True
+2084.png-5,2084.png,foodChainsWebs,False,D) monkey will starve,D,D,True
+2084.png-7,2084.png,foodChainsWebs,False,D,D,D,True
+17.png-4,17.png,foodChainsWebs,False,C,C,C,True
+17.png-14,17.png,foodChainsWebs,False,D) producer,D,D,True
+17.png-1,17.png,foodChainsWebs,False,A) phytoplankton,A,A,True
+17.png-18,17.png,foodChainsWebs,False,C) decrease,C,A,False
+17.png-5,17.png,foodChainsWebs,False,B) decrease,B,A,False
+17.png-16,17.png,foodChainsWebs,False,A) decrease,A,A,True
+17.png-8,17.png,foodChainsWebs,False,A) gulls,A,C,False
+17.png-9,17.png,foodChainsWebs,False,C,C,C,True
+17.png-19,17.png,foodChainsWebs,False,B) prey,B,B,True
+17.png-17,17.png,foodChainsWebs,False,B,B,B,True
+17.png-13,17.png,foodChainsWebs,False,C,C,C,True
+17.png-6,17.png,foodChainsWebs,False,A) gull,A,A,True
+17.png-7,17.png,foodChainsWebs,False,B) phytoplankton,B,B,True
+17.png-12,17.png,foodChainsWebs,False,B,B,B,True
+17.png-10,17.png,foodChainsWebs,False,D,D,D,True
+17.png-11,17.png,foodChainsWebs,False,A) cephalopod,A,A,True
+17.png-15,17.png,foodChainsWebs,False,B,B,A,False
+17.png-3,17.png,foodChainsWebs,False,D) decrease,D,D,True
+17.png-0,17.png,foodChainsWebs,False,C,C,C,True
+17.png-2,17.png,foodChainsWebs,False,B,B,B,True
+903.png-8,903.png,foodChainsWebs,False,D,D,D,True
+903.png-3,903.png,foodChainsWebs,False,A) grasshopper,A,A,True
+903.png-1,903.png,foodChainsWebs,False,B,B,B,True
+903.png-9,903.png,foodChainsWebs,False,D,D,A,False
+903.png-6,903.png,foodChainsWebs,False,B,B,B,True
+903.png-7,903.png,foodChainsWebs,False,C,C,C,True
+903.png-2,903.png,foodChainsWebs,False,C,C,C,True
+903.png-5,903.png,foodChainsWebs,False,C,C,C,True
+903.png-10,903.png,foodChainsWebs,False,C,C,C,True
+903.png-4,903.png,foodChainsWebs,False,C,C,C,True
+903.png-11,903.png,foodChainsWebs,False,B,B,B,True
+903.png-0,903.png,foodChainsWebs,False,D) mouse,D,B,False
+893.png-2,893.png,foodChainsWebs,False,D) rice plants,D,D,True
+893.png-9,893.png,foodChainsWebs,False,C,C,C,True
+893.png-3,893.png,foodChainsWebs,False,A) eagle,A,A,True
+893.png-7,893.png,foodChainsWebs,False,D) lizard,D,D,True
+893.png-4,893.png,foodChainsWebs,False,B,B,B,True
+893.png-0,893.png,foodChainsWebs,False,A) eagle,A,A,True
+893.png-1,893.png,foodChainsWebs,False,B) rice plant,B,B,True
+893.png-8,893.png,foodChainsWebs,False,C,C,C,True
+893.png-5,893.png,foodChainsWebs,False,A) Rice Plant,A,A,True
+893.png-10,893.png,foodChainsWebs,False,C,C,C,True
+893.png-6,893.png,foodChainsWebs,False,B,B,D,False
+303.png-3,303.png,foodChainsWebs,False,C,C,C,True
+303.png-1,303.png,foodChainsWebs,False,A) Population of zooplankton and cod will decrease.,A,A,True
+303.png-5,303.png,foodChainsWebs,False,C,C,C,True
+303.png-8,303.png,foodChainsWebs,False,C,C,C,True
+303.png-2,303.png,foodChainsWebs,False,A) decrease,A,A,True
+303.png-11,303.png,foodChainsWebs,False,C,C,C,True
+303.png-9,303.png,foodChainsWebs,False,B) Decrease,B,A,False
+303.png-4,303.png,foodChainsWebs,False,A) increase in leopard seals,A,A,True
+303.png-6,303.png,foodChainsWebs,False,D) elephant seals,D,D,True
+303.png-10,303.png,foodChainsWebs,False,A) population would decrease,A,A,True
+303.png-7,303.png,foodChainsWebs,False,B,B,B,True
+303.png-0,303.png,foodChainsWebs,False,D) leopard seal,D,D,True
+2118.png-1,2118.png,foodChainsWebs,False,C,C,C,True
+2118.png-0,2118.png,foodChainsWebs,False,B,B,B,True
+2118.png-3,2118.png,foodChainsWebs,False,B,B,B,True
+2118.png-4,2118.png,foodChainsWebs,False,D) small fish,D,A,False
+2118.png-2,2118.png,foodChainsWebs,False,C,C,A,False
+2118.png-5,2118.png,foodChainsWebs,False,D,D,D,True
+929.png-6,929.png,foodChainsWebs,False,C,C,D,False
+929.png-4,929.png,foodChainsWebs,False,C,C,C,True
+929.png-0,929.png,foodChainsWebs,False,C,C,B,False
+929.png-1,929.png,foodChainsWebs,False,D) Soil Mite,D,A,False
+929.png-3,929.png,foodChainsWebs,False,D) sycamore bark,D,A,False
+929.png-8,929.png,foodChainsWebs,False,D) maple leaf,D,B,False
+929.png-2,929.png,foodChainsWebs,False,B) fewer spiders,B,B,True
+929.png-7,929.png,foodChainsWebs,False,C,C,C,True
+929.png-5,929.png,foodChainsWebs,False,C,C,C,True
+2005.png-5,2005.png,foodChainsWebs,False,C,C,A,False
+2005.png-2,2005.png,foodChainsWebs,False,A) owl,A,A,True
+2005.png-3,2005.png,foodChainsWebs,False,C,C,C,True
+2005.png-0,2005.png,foodChainsWebs,False,C,C,C,True
+2005.png-4,2005.png,foodChainsWebs,False,A) grass,A,A,True
+2005.png-1,2005.png,foodChainsWebs,False,C,C,C,True
+202.png-13,202.png,foodChainsWebs,False,D,D,D,True
+202.png-4,202.png,foodChainsWebs,False,C,C,C,True
+202.png-0,202.png,foodChainsWebs,False,B) decrease,B,A,False
+202.png-10,202.png,foodChainsWebs,False,C,C,C,True
+202.png-2,202.png,foodChainsWebs,False,A) decrease,A,B,False
+202.png-14,202.png,foodChainsWebs,False,C,C,C,True
+202.png-18,202.png,foodChainsWebs,False,C,C,A,False
+202.png-12,202.png,foodChainsWebs,False,B) predator,B,B,True
+202.png-9,202.png,foodChainsWebs,False,B),B,A,False
+202.png-8,202.png,foodChainsWebs,False,C,C,B,False
+202.png-19,202.png,foodChainsWebs,False,A) grass,A,A,True
+202.png-1,202.png,foodChainsWebs,False,C,C,C,True
+202.png-6,202.png,foodChainsWebs,False,D) Less hawks in the ecosystem.,D,D,True
+202.png-7,202.png,foodChainsWebs,False,B,B,B,True
+202.png-11,202.png,foodChainsWebs,False,B) sparrows would decrease,B,B,True
+202.png-5,202.png,foodChainsWebs,False,B,B,A,False
+202.png-15,202.png,foodChainsWebs,False,C,C,C,True
+202.png-17,202.png,foodChainsWebs,False,C,C,C,True
+202.png-16,202.png,foodChainsWebs,False,B,B,B,True
+202.png-3,202.png,foodChainsWebs,False,D) Both hawk and owl,D,D,True
+532.png-0,532.png,foodChainsWebs,False,C) Beluga would decrease in number.,C,B,False
+532.png-8,532.png,foodChainsWebs,False,C,C,A,False
+532.png-5,532.png,foodChainsWebs,False,C,C,B,False
+532.png-9,532.png,foodChainsWebs,False,B,B,B,True
+532.png-4,532.png,foodChainsWebs,False,D,D,D,True
+532.png-3,532.png,foodChainsWebs,False,C,C,C,True
+532.png-6,532.png,foodChainsWebs,False,C,C,D,False
+532.png-7,532.png,foodChainsWebs,False,D) All of the above are producers,D,D,True
+532.png-1,532.png,foodChainsWebs,False,B,B,B,True
+532.png-2,532.png,foodChainsWebs,False,D) all of the above,D,D,True
+19.png-2,19.png,foodChainsWebs,False,C,C,C,True
+19.png-1,19.png,foodChainsWebs,False,C,C,A,False
+19.png-22,19.png,foodChainsWebs,False,D) algae decrease,D,C,False
+19.png-13,19.png,foodChainsWebs,False,C,C,C,True
+19.png-4,19.png,foodChainsWebs,False,A) increase in mayfly nymph,A,A,True
+19.png-3,19.png,foodChainsWebs,False,C,C,D,False
+19.png-6,19.png,foodChainsWebs,False,C) increase,C,A,False
+19.png-11,19.png,foodChainsWebs,False,C) decrease,C,C,True
+19.png-19,19.png,foodChainsWebs,False,A) Producer,A,A,True
+19.png-10,19.png,foodChainsWebs,False,C,C,C,True
+19.png-17,19.png,foodChainsWebs,False,A) freshwater shrimp,A,C,False
+19.png-5,19.png,foodChainsWebs,False,A) brown trout,A,A,True
+19.png-7,19.png,foodChainsWebs,False,A) decrease,A,A,True
+19.png-9,19.png,foodChainsWebs,False,A) dragonfly nymph,A,A,True
+19.png-0,19.png,foodChainsWebs,False,A) brown trout,A,A,True
+19.png-12,19.png,foodChainsWebs,False,B) producer,B,B,True
+19.png-21,19.png,foodChainsWebs,False,B) decrease,B,B,True
+19.png-20,19.png,foodChainsWebs,False,A) pondweed,A,C,False
+19.png-14,19.png,foodChainsWebs,False,B) fewer dragonfly nymph,B,A,False
+19.png-16,19.png,foodChainsWebs,False,C,C,C,True
+19.png-18,19.png,foodChainsWebs,False,A) brown trout,A,A,True
+19.png-15,19.png,foodChainsWebs,False,D,D,A,False
+19.png-8,19.png,foodChainsWebs,False,B,B,B,True
+2024.png-4,2024.png,foodChainsWebs,False,B) From sea grass to green sea turtles,B,B,True
+2024.png-6,2024.png,foodChainsWebs,False,D) Leatherback sea turtle,D,D,True
+2024.png-3,2024.png,foodChainsWebs,False,C,C,C,True
+2024.png-0,2024.png,foodChainsWebs,False,A) decrease,A,A,True
+2024.png-8,2024.png,foodChainsWebs,False,D) Great White Shark,D,D,True
+2024.png-7,2024.png,foodChainsWebs,False,B,B,B,True
+2024.png-10,2024.png,foodChainsWebs,False,C) True,C,C,True
+2024.png-9,2024.png,foodChainsWebs,False,D) Algae,D,D,True
+2024.png-5,2024.png,foodChainsWebs,False,B) killer whale,B,B,True
+2024.png-1,2024.png,foodChainsWebs,False,B) algae,B,B,True
+2024.png-2,2024.png,foodChainsWebs,False,A) Cod decrease,A,A,True
+2103.png-9,2103.png,foodChainsWebs,False,D,D,D,True
+2103.png-4,2103.png,foodChainsWebs,False,D,D,D,True
+2103.png-2,2103.png,foodChainsWebs,False,C,C,C,True
+2103.png-6,2103.png,foodChainsWebs,False,C,C,C,True
+2103.png-0,2103.png,foodChainsWebs,False,D,D,D,True
+2103.png-1,2103.png,foodChainsWebs,False,A) plants,A,A,True
+2103.png-5,2103.png,foodChainsWebs,False,D) X,D,B,False
+2103.png-8,2103.png,foodChainsWebs,False,B) z,B,A,False
+2103.png-10,2103.png,foodChainsWebs,False,A) decrease,A,A,True
+2103.png-3,2103.png,foodChainsWebs,False,C,C,C,True
+2103.png-7,2103.png,foodChainsWebs,False,B) plant,B,B,True
+2103.png-11,2103.png,foodChainsWebs,False,A) Z,A,A,True
+1793.png-7,1793.png,foodChainsWebs,False,C,C,C,True
+1793.png-3,1793.png,foodChainsWebs,False,D,D,D,True
+1793.png-1,1793.png,foodChainsWebs,False,D) decrease,D,D,True
+1793.png-8,1793.png,foodChainsWebs,False,A) increase,A,A,True
+1793.png-2,1793.png,foodChainsWebs,False,D,D,D,True
+1793.png-5,1793.png,foodChainsWebs,False,D) grass,D,D,True
+1793.png-0,1793.png,foodChainsWebs,False,D) Lizard population decreases,D,D,True
+1793.png-4,1793.png,foodChainsWebs,False,"A) Hawk, lizard, snake",A,A,True
+1793.png-6,1793.png,foodChainsWebs,False,B,B,B,True
+416.png-6,416.png,foodChainsWebs,False,B) Producer,B,B,True
+416.png-7,416.png,foodChainsWebs,False,A) producer- consumer,A,A,True
+416.png-3,416.png,foodChainsWebs,False,B) increase,B,A,False
+416.png-0,416.png,foodChainsWebs,False,A) Algae,A,A,True
+416.png-5,416.png,foodChainsWebs,False,D) predator,D,D,True
+416.png-8,416.png,foodChainsWebs,False,A) tadpole,A,A,True
+416.png-1,416.png,foodChainsWebs,False,B) water stick insect,B,B,True
+416.png-4,416.png,foodChainsWebs,False,B) decrease,B,B,True
+416.png-9,416.png,foodChainsWebs,False,C,C,C,True
+416.png-2,416.png,foodChainsWebs,False,B,B,B,True
+391.png-2,391.png,foodChainsWebs,False,A) predator,A,A,True
+391.png-9,391.png,foodChainsWebs,False,A) killer whales,A,B,False
+391.png-4,391.png,foodChainsWebs,False,D) producer,D,D,True
+391.png-8,391.png,foodChainsWebs,False,B) krill,B,B,True
+391.png-10,391.png,foodChainsWebs,False,B,B,B,True
+391.png-3,391.png,foodChainsWebs,False,C,C,C,True
+391.png-6,391.png,foodChainsWebs,False,C,C,A,False
+391.png-7,391.png,foodChainsWebs,False,B) decrease,B,C,False
+391.png-0,391.png,foodChainsWebs,False,A) krill,A,B,False
+391.png-5,391.png,foodChainsWebs,False,A) killer whale,A,D,False
+391.png-1,391.png,foodChainsWebs,False,A) from algae to krill,A,A,True
+2012.png-7,2012.png,foodChainsWebs,False,B,B,B,True
+2012.png-10,2012.png,foodChainsWebs,False,B,B,B,True
+2012.png-8,2012.png,foodChainsWebs,False,A) grasshopper,A,A,True
+2012.png-9,2012.png,foodChainsWebs,False,B) Snake to Hawk,B,B,True
+2012.png-6,2012.png,foodChainsWebs,False,B,B,A,False
+2012.png-2,2012.png,foodChainsWebs,False,C,C,C,True
+2012.png-1,2012.png,foodChainsWebs,False,C,C,C,True
+2012.png-5,2012.png,foodChainsWebs,False,C,C,C,True
+2012.png-0,2012.png,foodChainsWebs,False,B,B,A,False
+2012.png-4,2012.png,foodChainsWebs,False,A,A,A,True
+2012.png-3,2012.png,foodChainsWebs,False,A) frog,A,A,True
+1839.png-6,1839.png,foodChainsWebs,False,A) from tikus to belalang,A,B,False
+1839.png-9,1839.png,foodChainsWebs,False,C,C,C,True
+1839.png-7,1839.png,foodChainsWebs,False,A) Serigala is one of the highest organisms,A,A,True
+1839.png-4,1839.png,foodChainsWebs,False,A) source of energy,A,A,True
+1839.png-8,1839.png,foodChainsWebs,False,D) hawks,D,D,True
+1839.png-3,1839.png,foodChainsWebs,False,C,C,B,False
+1839.png-10,1839.png,foodChainsWebs,False,C,C,C,True
+1839.png-1,1839.png,foodChainsWebs,False,C,C,A,False
+1839.png-0,1839.png,foodChainsWebs,False,C,C,B,False
+1839.png-11,1839.png,foodChainsWebs,False,B,B,B,True
+1839.png-5,1839.png,foodChainsWebs,False,B,B,B,True
+1839.png-2,1839.png,foodChainsWebs,False,A) Tumbuh-tumbuhan,A,A,True
+1965.png-1,1965.png,foodChainsWebs,False,D) banana plants-banana skippers-wasps,D,D,True
+1965.png-11,1965.png,foodChainsWebs,False,D,D,D,True
+1965.png-2,1965.png,foodChainsWebs,False,D) banana plants,D,D,True
+1965.png-9,1965.png,foodChainsWebs,False,D,D,B,False
+1965.png-8,1965.png,foodChainsWebs,False,A) Root borer insects,A,A,True
+1965.png-5,1965.png,foodChainsWebs,False,B) banana skippers,B,B,True
+1965.png-6,1965.png,foodChainsWebs,False,A) banana plants,A,A,True
+1965.png-10,1965.png,foodChainsWebs,False,A) Banana Plants,A,A,True
+1965.png-0,1965.png,foodChainsWebs,False,D,D,D,True
+1965.png-7,1965.png,foodChainsWebs,False,D) banana plants,D,D,True
+1965.png-3,1965.png,foodChainsWebs,False,C,C,B,False
+1965.png-4,1965.png,foodChainsWebs,False,D,D,D,True
+1801.png-7,1801.png,foodChainsWebs,False,C,C,C,True
+1801.png-2,1801.png,foodChainsWebs,False,A) fish,A,A,True
+1801.png-3,1801.png,foodChainsWebs,False,B) fish,B,D,False
+1801.png-1,1801.png,foodChainsWebs,False,B) oxygen,B,B,True
+1801.png-5,1801.png,foodChainsWebs,False,B,B,B,True
+1801.png-4,1801.png,foodChainsWebs,False,B,B,B,True
+1801.png-6,1801.png,foodChainsWebs,False,A) Fish,A,A,True
+1801.png-0,1801.png,foodChainsWebs,False,D) Aquatic plants,D,D,True
+2050.png-5,2050.png,foodChainsWebs,False,B) 3,B,B,True
+2050.png-8,2050.png,foodChainsWebs,False,D) More mice,D,D,True
+2050.png-3,2050.png,foodChainsWebs,False,B) Owls and Foxes,B,B,True
+2050.png-1,2050.png,foodChainsWebs,False,D) fox,D,D,True
+2050.png-0,2050.png,foodChainsWebs,False,C) Carnivores,C,C,True
+2050.png-2,2050.png,foodChainsWebs,False,C,C,C,True
+2050.png-7,2050.png,foodChainsWebs,False,A) owl,A,A,True
+2050.png-4,2050.png,foodChainsWebs,False,A) grass,A,A,True
+2050.png-10,2050.png,foodChainsWebs,False,C,C,B,False
+2050.png-11,2050.png,foodChainsWebs,False,A) Owl,A,A,True
+2050.png-9,2050.png,foodChainsWebs,False,A) Seeds,A,A,True
+2050.png-6,2050.png,foodChainsWebs,False,C) Rabbits and Mice,C,C,True
+2014.png-5,2014.png,foodChainsWebs,False,B) Mouse will decrease,B,B,True
+2014.png-11,2014.png,foodChainsWebs,False,A) Mouse,A,A,True
+2014.png-9,2014.png,foodChainsWebs,False,B) producer,B,B,True
+2014.png-8,2014.png,foodChainsWebs,False,C,C,C,True
+2014.png-4,2014.png,foodChainsWebs,False,B) Eagle,B,B,True
+2014.png-7,2014.png,foodChainsWebs,False,A) Fungus,A,A,True
+2014.png-2,2014.png,foodChainsWebs,False,D) Primary consumer,D,D,True
+2014.png-1,2014.png,foodChainsWebs,False,B) Snake,B,A,False
+2014.png-3,2014.png,foodChainsWebs,False,C,C,C,True
+2014.png-10,2014.png,foodChainsWebs,False,A) mouse,A,A,True
+2014.png-6,2014.png,foodChainsWebs,False,C,C,C,True
+2014.png-0,2014.png,foodChainsWebs,False,C,C,C,True
+473.png-6,473.png,foodChainsWebs,False,C,C,C,True
+473.png-10,473.png,foodChainsWebs,False,C,C,C,True
+473.png-5,473.png,foodChainsWebs,False,C,C,C,True
+473.png-2,473.png,foodChainsWebs,False,D,D,D,True
+473.png-8,473.png,foodChainsWebs,False,D,D,D,True
+473.png-3,473.png,foodChainsWebs,False,B) great diving beetle,B,B,True
+473.png-9,473.png,foodChainsWebs,False,C,C,C,True
+473.png-0,473.png,foodChainsWebs,False,A) great diving beetles would decrease,A,B,False
+473.png-1,473.png,foodChainsWebs,False,B,B,B,True
+473.png-4,473.png,foodChainsWebs,False,C,C,C,True
+473.png-7,473.png,foodChainsWebs,False,B,B,B,True
+323.png-1,323.png,foodChainsWebs,False,D) plant life,D,D,True
+323.png-3,323.png,foodChainsWebs,False,B) rodents,B,B,True
+323.png-0,323.png,foodChainsWebs,False,A) olves,A,A,True
+323.png-2,323.png,foodChainsWebs,False,C,C,C,True
+2076.png-1,2076.png,foodChainsWebs,False,B) plants,B,B,True
+2076.png-2,2076.png,foodChainsWebs,False,A) plant,A,A,True
+2076.png-3,2076.png,foodChainsWebs,False,B) decrease,B,B,True
+2076.png-0,2076.png,foodChainsWebs,False,B) plant,B,B,True
+321.png-2,321.png,foodChainsWebs,False,D) herbivore,D,D,True
+321.png-5,321.png,foodChainsWebs,False,C,C,C,True
+321.png-1,321.png,foodChainsWebs,False,D) Fruit,D,D,True
+321.png-4,321.png,foodChainsWebs,False,D) frog,D,D,True
+321.png-3,321.png,foodChainsWebs,False,B,B,B,True
+321.png-0,321.png,foodChainsWebs,False,D) fruits,D,D,True
+321.png-6,321.png,foodChainsWebs,False,B) Coconut trees,B,B,True
+321.png-7,321.png,foodChainsWebs,False,B) decrease,B,C,False
+258.png-7,258.png,foodChainsWebs,False,B) bleak to osprey,B,A,False
+258.png-0,258.png,foodChainsWebs,False,A) decrease,A,A,True
+258.png-8,258.png,foodChainsWebs,False,A) Decrease,A,A,True
+258.png-9,258.png,foodChainsWebs,False,D) carnivore,D,D,True
+258.png-2,258.png,foodChainsWebs,False,D,D,D,True
+258.png-3,258.png,foodChainsWebs,False,C,C,C,True
+258.png-1,258.png,foodChainsWebs,False,A) They would go extinct.,A,A,True
+258.png-4,258.png,foodChainsWebs,False,D,D,D,True
+258.png-6,258.png,foodChainsWebs,False,B,B,B,True
+258.png-5,258.png,foodChainsWebs,False,C,C,C,True
+1978.png-5,1978.png,foodChainsWebs,False,D) Groundhog,D,D,True
+1978.png-9,1978.png,foodChainsWebs,False,C,C,C,True
+1978.png-3,1978.png,foodChainsWebs,False,C,C,C,True
+1978.png-6,1978.png,foodChainsWebs,False,B) worm to robin,B,B,True
+1978.png-0,1978.png,foodChainsWebs,False,D) clover,D,D,True
+1978.png-1,1978.png,foodChainsWebs,False,A) White-Tailed Deer,A,A,True
+1978.png-10,1978.png,foodChainsWebs,False,C,C,A,False
+1978.png-7,1978.png,foodChainsWebs,False,A) Racoon,A,A,True
+1978.png-2,1978.png,foodChainsWebs,False,C,C,C,True
+1978.png-4,1978.png,foodChainsWebs,False,C,C,C,True
+1978.png-8,1978.png,foodChainsWebs,False,A) White tailed deer,A,A,True
+1827.png-1,1827.png,foodChainsWebs,False,D,D,D,True
+1827.png-3,1827.png,foodChainsWebs,False,B) carnivore,B,B,True
+1827.png-2,1827.png,foodChainsWebs,False,D) deer,D,B,False
+1827.png-0,1827.png,foodChainsWebs,False,A) sun,A,A,True
+26.png-5,26.png,foodChainsWebs,False,B) humans,B,B,True
+26.png-17,26.png,foodChainsWebs,False,C,C,C,True
+26.png-23,26.png,foodChainsWebs,False,B) detrilus,B,B,True
+26.png-8,26.png,foodChainsWebs,False,D) increase in fish,D,D,True
+26.png-14,26.png,foodChainsWebs,False,C,C,C,True
+26.png-13,26.png,foodChainsWebs,False,B) detritus,B,B,True
+26.png-2,26.png,foodChainsWebs,False,B) algae,B,B,True
+26.png-21,26.png,foodChainsWebs,False,B) increase,B,B,True
+26.png-1,26.png,foodChainsWebs,False,C,C,A,False
+26.png-4,26.png,foodChainsWebs,False,C,C,C,True
+26.png-19,26.png,foodChainsWebs,False,C,C,C,True
+26.png-3,26.png,foodChainsWebs,False,B) birds,B,B,True
+26.png-20,26.png,foodChainsWebs,False,A) The mollusc's would starve and might go extinct,A,A,True
+26.png-18,26.png,foodChainsWebs,False,B,B,B,True
+26.png-10,26.png,foodChainsWebs,False,C,C,C,True
+26.png-12,26.png,foodChainsWebs,False,A) algae,A,A,True
+26.png-11,26.png,foodChainsWebs,False,C,C,C,True
+26.png-0,26.png,foodChainsWebs,False,C,C,C,True
+26.png-15,26.png,foodChainsWebs,False,C,C,C,True
+26.png-9,26.png,foodChainsWebs,False,B,B,B,True
+26.png-16,26.png,foodChainsWebs,False,A) The fish and prawns population will decrease.,A,A,True
+26.png-7,26.png,foodChainsWebs,False,C,C,C,True
+26.png-6,26.png,foodChainsWebs,False,C,C,A,False
+26.png-22,26.png,foodChainsWebs,False,B,B,B,True
+923.png-0,923.png,foodChainsWebs,False,C,C,C,True
+923.png-2,923.png,foodChainsWebs,False,B) the grass,B,B,True
+923.png-6,923.png,foodChainsWebs,False,C,C,D,False
+923.png-8,923.png,foodChainsWebs,False,B) decrease,B,B,True
+923.png-9,923.png,foodChainsWebs,False,D,D,D,True
+923.png-3,923.png,foodChainsWebs,False,C,C,A,False
+923.png-5,923.png,foodChainsWebs,False,B) Fish,B,A,False
+923.png-7,923.png,foodChainsWebs,False,A) Phytoplankton,A,A,True
+923.png-4,923.png,foodChainsWebs,False,A) Fish,A,A,True
+923.png-1,923.png,foodChainsWebs,False,A) Fish,A,A,True
+493.png-3,493.png,foodChainsWebs,False,C,C,C,True
+493.png-7,493.png,foodChainsWebs,False,C) hawk,C,C,True
+493.png-8,493.png,foodChainsWebs,False,C,C,C,True
+493.png-0,493.png,foodChainsWebs,False,B) producer,B,B,True
+493.png-2,493.png,foodChainsWebs,False,D,D,D,True
+493.png-5,493.png,foodChainsWebs,False,B) plant,B,B,True
+493.png-6,493.png,foodChainsWebs,False,D) fish,D,B,False
+493.png-9,493.png,foodChainsWebs,False,D,D,A,False
+493.png-1,493.png,foodChainsWebs,False,A) hawks,A,A,True
+493.png-4,493.png,foodChainsWebs,False,A) Insects and small fish,A,A,True
+2078.png-7,2078.png,foodChainsWebs,False,C) Increase in Phytoplankton,C,C,True
+2078.png-2,2078.png,foodChainsWebs,False,B) Producers,B,B,True
+2078.png-4,2078.png,foodChainsWebs,False,C) Primary consumer,C,C,True
+2078.png-9,2078.png,foodChainsWebs,False,B) Shag Nudibranchs,B,B,True
+2078.png-3,2078.png,foodChainsWebs,False,D,D,D,True
+2078.png-8,2078.png,foodChainsWebs,False,D) sun,D,D,True
+2078.png-1,2078.png,foodChainsWebs,False,B) ocher star,B,B,True
+2078.png-5,2078.png,foodChainsWebs,False,A) decrease,A,A,True
+2078.png-0,2078.png,foodChainsWebs,False,B) orcher stars,B,B,True
+2078.png-10,2078.png,foodChainsWebs,False,D,D,D,True
+2078.png-6,2078.png,foodChainsWebs,False,C,C,C,True
+869.png-4,869.png,foodChainsWebs,False,A) consumers,A,A,True
+869.png-5,869.png,foodChainsWebs,False,D) clam,D,D,True
+869.png-8,869.png,foodChainsWebs,False,B) clam,B,B,True
+869.png-6,869.png,foodChainsWebs,False,B) clam,B,B,True
+869.png-2,869.png,foodChainsWebs,False,D) menhaden,D,D,True
+869.png-3,869.png,foodChainsWebs,False,C,C,C,True
+869.png-1,869.png,foodChainsWebs,False,B,B,C,False
+869.png-7,869.png,foodChainsWebs,False,B) crab,B,B,True
+869.png-0,869.png,foodChainsWebs,False,C,C,A,False
+1776.png-3,1776.png,foodChainsWebs,False,A) ants,A,A,True
+1776.png-2,1776.png,foodChainsWebs,False,D,D,D,True
+1776.png-5,1776.png,foodChainsWebs,False,C,C,D,False
+1776.png-1,1776.png,foodChainsWebs,False,C) Predator,C,C,True
+1776.png-4,1776.png,foodChainsWebs,False,B) protozoa,B,A,False
+1776.png-0,1776.png,foodChainsWebs,False,C,C,B,False
+706.png-5,706.png,foodChainsWebs,False,B,B,B,True
+706.png-2,706.png,foodChainsWebs,False,C,C,C,True
+706.png-6,706.png,foodChainsWebs,False,B) Tuna would eat more small fish.,B,B,True
+706.png-8,706.png,foodChainsWebs,False,C,C,A,False
+706.png-1,706.png,foodChainsWebs,False,D) One-celled life to shrimp-like creatures,D,D,True
+706.png-0,706.png,foodChainsWebs,False,A) Mackerel and tuna,A,A,True
+706.png-3,706.png,foodChainsWebs,False,C,C,C,True
+706.png-4,706.png,foodChainsWebs,False,D,D,D,True
+706.png-7,706.png,foodChainsWebs,False,D) mackarel-shark,D,A,False
+706.png-9,706.png,foodChainsWebs,False,C,C,C,True
+867.png-0,867.png,foodChainsWebs,False,D,D,D,True
+867.png-7,867.png,foodChainsWebs,False,B,B,B,True
+867.png-4,867.png,foodChainsWebs,False,D) scorpion,D,D,True
+867.png-2,867.png,foodChainsWebs,False,A) grass is producer,A,A,True
+867.png-8,867.png,foodChainsWebs,False,D) grass to rabbit,D,D,True
+867.png-1,867.png,foodChainsWebs,False,D) rattlesnake,D,D,True
+867.png-3,867.png,foodChainsWebs,False,B,B,B,True
+867.png-5,867.png,foodChainsWebs,False,C,C,C,True
+867.png-6,867.png,foodChainsWebs,False,B,B,B,True
+311.png-7,311.png,foodChainsWebs,False,C,C,C,True
+311.png-0,311.png,foodChainsWebs,False,C,C,C,True
+311.png-6,311.png,foodChainsWebs,False,C,C,C,True
+311.png-10,311.png,foodChainsWebs,False,C,C,C,True
+311.png-4,311.png,foodChainsWebs,False,B,B,B,True
+311.png-5,311.png,foodChainsWebs,False,D,D,D,True
+311.png-9,311.png,foodChainsWebs,False,D) deer tick,D,A,False
+311.png-3,311.png,foodChainsWebs,False,D) red oak,D,D,True
+311.png-1,311.png,foodChainsWebs,False,C,C,C,True
+311.png-2,311.png,foodChainsWebs,False,A) red oak,A,A,True
+311.png-8,311.png,foodChainsWebs,False,A) Owls would increase.,A,C,False
+1886.png-0,1886.png,foodChainsWebs,False,A) Algae population will decrease,A,A,True
+1886.png-4,1886.png,foodChainsWebs,False,C) algae,C,C,True
+1886.png-10,1886.png,foodChainsWebs,False,A) clams,A,A,True
+1886.png-9,1886.png,foodChainsWebs,False,C,C,C,True
+1886.png-5,1886.png,foodChainsWebs,False,D,D,D,True
+1886.png-7,1886.png,foodChainsWebs,False,C,C,C,True
+1886.png-1,1886.png,foodChainsWebs,False,A) the Sun,A,A,True
+1886.png-3,1886.png,foodChainsWebs,False,D,D,D,True
+1886.png-8,1886.png,foodChainsWebs,False,B) Secondary Consumer,B,B,True
+1886.png-2,1886.png,foodChainsWebs,False,A) a source of energy for consumers.,A,D,False
+1886.png-6,1886.png,foodChainsWebs,False,A) clams,A,A,True
+1976.png-1,1976.png,foodChainsWebs,False,B) Meadow Grasses,B,B,True
+1976.png-0,1976.png,foodChainsWebs,False,B) Hawk,B,B,True
+1976.png-9,1976.png,foodChainsWebs,False,C,C,C,True
+1976.png-2,1976.png,foodChainsWebs,False,"B) Deer, Rabbit, Vole",B,B,True
+1976.png-8,1976.png,foodChainsWebs,False,"D) Deer, Vole",D,A,False
+1976.png-3,1976.png,foodChainsWebs,False,B,B,B,True
+1976.png-7,1976.png,foodChainsWebs,False,D) vole (A) meadow grasses (B) coyote,D,B,False
+1976.png-4,1976.png,foodChainsWebs,False,C),C,C,True
+1976.png-5,1976.png,foodChainsWebs,False,C,C,C,True
+1976.png-6,1976.png,foodChainsWebs,False,C,C,C,True
+2366.png-4,2366.png,lifeCycles,False,D) 6,D,D,True
+2366.png-2,2366.png,lifeCycles,True,D) B,D,C,False
+2366.png-3,2366.png,lifeCycles,True,B,B,B,True
+2366.png-1,2366.png,lifeCycles,True,D,D,D,True
+2366.png-0,2366.png,lifeCycles,False,D,D,D,True
+2415.png-0,2415.png,lifeCycles,True,D) C,D,A,False
+2415.png-1,2415.png,lifeCycles,True,B) C,B,B,True
+2202.png-1,2202.png,lifeCycles,True,B) first larval stage,B,B,True
+2202.png-3,2202.png,lifeCycles,False,B) Mosquito life cycle,B,B,True
+2202.png-0,2202.png,lifeCycles,True,D) a,D,D,True
+2202.png-2,2202.png,lifeCycles,False,C,C,C,True
+2272.png-3,2272.png,lifeCycles,True,C) Acervulus,C,A,False
+2272.png-2,2272.png,lifeCycles,True,B) ascospores,B,C,False
+2272.png-1,2272.png,lifeCycles,True,C,C,C,True
+2272.png-0,2272.png,lifeCycles,True,C) Letter E,C,A,False
+437.png-2,437.png,lifeCycles,False,D) 4,D,D,True
+437.png-0,437.png,lifeCycles,True,B) D,B,D,False
+437.png-1,437.png,lifeCycles,True,D) Check,D,A,False
+437.png-3,437.png,lifeCycles,True,D) Do,D,B,False
+437.png-4,437.png,lifeCycles,False,D) planning,D,C,False
+437.png-5,437.png,lifeCycles,True,A) B,A,A,True
+2254.png-0,2254.png,lifeCycles,True,C,C,B,False
+2254.png-1,2254.png,lifeCycles,True,C,C,B,False
+2254.png-3,2254.png,lifeCycles,True,C,C,C,True
+2254.png-2,2254.png,lifeCycles,False,D) wings,D,D,True
+2345.png-1,2345.png,lifeCycles,True,B) Fruit bearing,B,C,False
+2345.png-0,2345.png,lifeCycles,True,A) F,A,C,False
+2323.png-0,2323.png,lifeCycles,False,C,C,C,True
+2323.png-3,2323.png,lifeCycles,False,C,C,C,True
+2323.png-2,2323.png,lifeCycles,True,B) E,B,C,False
+2323.png-1,2323.png,lifeCycles,True,D) 12-14,D,D,True
+2231.png-0,2231.png,lifeCycles,True,D) tree mortality,D,C,False
+2177.png-2,2177.png,lifeCycles,False,A) 3rd stage,A,A,True
+2177.png-3,2177.png,lifeCycles,False,B,B,B,True
+2177.png-1,2177.png,lifeCycles,True,C,C,C,True
+2177.png-0,2177.png,lifeCycles,True,C) I,C,D,False
+2186.png-1,2186.png,lifeCycles,True,C,C,C,True
+2186.png-2,2186.png,lifeCycles,True,D) B,D,C,False
+2186.png-0,2186.png,lifeCycles,True,C) flea,C,C,True
+2186.png-3,2186.png,lifeCycles,True,D) larva,D,D,True
+2433.png-3,2433.png,lifeCycles,False,C,C,C,True
+2433.png-1,2433.png,lifeCycles,True,D) B,D,D,True
+2433.png-2,2433.png,lifeCycles,True,D) C,D,D,True
+2433.png-0,2433.png,lifeCycles,True,D) C,D,C,False
+354.png-2,354.png,lifeCycles,False,C,C,A,False
+354.png-3,354.png,lifeCycles,True,C,C,C,True
+354.png-1,354.png,lifeCycles,True,D) nymph,D,D,True
+354.png-0,354.png,lifeCycles,True,B) A,B,A,False
+354.png-4,354.png,lifeCycles,False,D) Nymph,D,D,True
+425.png-0,425.png,lifeCycles,False,A) Pupa,A,A,True
+425.png-2,425.png,lifeCycles,False,B) Wriggler,B,B,True
+425.png-3,425.png,lifeCycles,True,C,C,D,False
+425.png-1,425.png,lifeCycles,True,C,C,A,False
+2285.png-3,2285.png,lifeCycles,False,D) 4,D,D,True
+2285.png-2,2285.png,lifeCycles,True,C,C,D,False
+2285.png-1,2285.png,lifeCycles,True,B) caterpillar,B,B,True
+2285.png-0,2285.png,lifeCycles,False,B) Caterpillar and butterfly,B,B,True
+2422.png-2,2422.png,lifeCycles,False,D,D,A,False
+2422.png-0,2422.png,lifeCycles,True,D,D,A,False
+2422.png-1,2422.png,lifeCycles,True,D) b,D,C,False
+838.png-1,838.png,lifeCycles,True,C,C,A,False
+838.png-0,838.png,lifeCycles,True,D,D,D,True
+592.png-3,592.png,lifeCycles,False,D) 4,D,D,True
+592.png-1,592.png,lifeCycles,False,D) adult,D,D,True
+592.png-2,592.png,lifeCycles,True,D,D,A,False
+592.png-4,592.png,lifeCycles,True,B,B,A,False
+592.png-0,592.png,lifeCycles,True,B) D,B,D,False
+578.png-2,578.png,lifeCycles,True,C,C,A,False
+578.png-4,578.png,lifeCycles,True,B) Young plant,B,C,False
+578.png-3,578.png,lifeCycles,True,C,C,C,True
+578.png-1,578.png,lifeCycles,True,D,D,C,False
+578.png-5,578.png,lifeCycles,False,C,C,C,True
+578.png-0,578.png,lifeCycles,False,B,B,A,False
+2243.png-0,2243.png,lifeCycles,True,C,C,C,True
+2243.png-1,2243.png,lifeCycles,True,D) caterpillar,D,A,False
+2482.png-5,2482.png,lifeCycles,True,C,C,C,True
+2482.png-4,2482.png,lifeCycles,False,A) pupa,A,A,True
+2482.png-0,2482.png,lifeCycles,False,A) eggs,A,A,True
+2482.png-2,2482.png,lifeCycles,True,D,D,B,False
+2482.png-1,2482.png,lifeCycles,True,B,B,C,False
+2482.png-3,2482.png,lifeCycles,True,B) Larva,B,B,True
+2463.png-1,2463.png,lifeCycles,True,C,C,B,False
+2463.png-2,2463.png,lifeCycles,True,D) F,D,B,False
+2463.png-0,2463.png,lifeCycles,False,C,C,C,True
+2265.png-0,2265.png,lifeCycles,True,D) B,D,A,False
+2265.png-1,2265.png,lifeCycles,False,B,B,B,True
+2265.png-2,2265.png,lifeCycles,True,D) micelio seconardio,D,B,False
+2383.png-3,2383.png,lifeCycles,False,B,B,B,True
+2383.png-2,2383.png,lifeCycles,True,D) caterpillar,D,C,False
+2383.png-1,2383.png,lifeCycles,True,D,D,D,True
+2383.png-0,2383.png,lifeCycles,True,C,C,B,False
+2383.png-4,2383.png,lifeCycles,False,D) leaves,D,D,True
+657.png-2,657.png,lifeCycles,True,D) 3,D,B,False
+657.png-4,657.png,lifeCycles,True,D) C,D,A,False
+657.png-1,657.png,lifeCycles,True,D) Fly,D,D,True
+657.png-3,657.png,lifeCycles,True,A) B,A,B,False
+657.png-0,657.png,lifeCycles,False,B,B,B,True
+2329.png-0,2329.png,lifeCycles,True,D,D,B,False
+2329.png-3,2329.png,lifeCycles,True,C,C,C,True
+2329.png-1,2329.png,lifeCycles,True,D,D,D,True
+2329.png-4,2329.png,lifeCycles,True,C,C,C,True
+2329.png-2,2329.png,lifeCycles,False,B) Planula,B,B,True
+585.png-0,585.png,lifeCycles,False,D) Limbs,D,B,False
+836.png-2,836.png,lifeCycles,False,C,C,C,True
+836.png-0,836.png,lifeCycles,False,D) The young nymph stage,D,B,False
+836.png-1,836.png,lifeCycles,True,D) A,D,D,True
+2413.png-4,2413.png,lifeCycles,True,D) D,D,A,False
+2413.png-1,2413.png,lifeCycles,False,A) egg,A,A,True
+2413.png-0,2413.png,lifeCycles,True,D) C,D,A,False
+2413.png-2,2413.png,lifeCycles,False,A) larva,A,C,False
+2413.png-3,2413.png,lifeCycles,True,D) nymphal,D,D,True
+844.png-0,844.png,lifeCycles,True,B) Larva.,B,B,True
+2287.png-1,2287.png,lifeCycles,False,D) Larva,D,D,True
+2287.png-0,2287.png,lifeCycles,False,B) Pupa,B,B,True
+2287.png-2,2287.png,lifeCycles,True,D) Adult,D,B,False
+2183.png-3,2183.png,lifeCycles,True,A) D,A,D,False
+2183.png-4,2183.png,lifeCycles,True,D) pupa,D,D,True
+2183.png-2,2183.png,lifeCycles,True,D) Larval Stage,D,C,False
+2183.png-0,2183.png,lifeCycles,False,C,C,C,True
+2183.png-1,2183.png,lifeCycles,False,A) Pupal stage,A,A,True
+2183.png-5,2183.png,lifeCycles,True,A) D,A,A,True
+2326.png-0,2326.png,lifeCycles,True,D) Adult,D,D,True
+2326.png-4,2326.png,lifeCycles,True,B,B,B,True
+2326.png-2,2326.png,lifeCycles,True,B) Mountain Pine Beetle,B,B,True
+2326.png-5,2326.png,lifeCycles,False,B,B,B,True
+2326.png-1,2326.png,lifeCycles,False,B) Life Cycle of the Mountain Pine Beetle,B,B,True
+2326.png-3,2326.png,lifeCycles,True,D,D,C,False
+2192.png-3,2192.png,lifeCycles,False,D) 3,D,B,False
+2192.png-0,2192.png,lifeCycles,True,D) Lalat,D,C,False
+2192.png-2,2192.png,lifeCycles,True,D) C,D,B,False
+2192.png-1,2192.png,lifeCycles,True,D) Nyamuk,D,A,False
+340.png-1,340.png,lifeCycles,True,A) D,A,C,False
+340.png-0,340.png,lifeCycles,True,C) 2 to 3 days,C,A,False
+340.png-2,340.png,lifeCycles,True,C,C,D,False
+346.png-2,346.png,lifeCycles,True,B,B,B,True
+346.png-1,346.png,lifeCycles,True,A) butterfly,A,A,True
+346.png-0,346.png,lifeCycles,True,B,B,C,False
+2344.png-0,2344.png,lifeCycles,True,B) A,B,D,False
+2344.png-1,2344.png,lifeCycles,True,A) zygote,A,D,False
+2416.png-3,2416.png,lifeCycles,True,C,C,C,True
+2416.png-1,2416.png,lifeCycles,False,C,C,C,True
+2416.png-0,2416.png,lifeCycles,False,D) Eggs,D,D,True
+2416.png-4,2416.png,lifeCycles,True,A) pupa,A,B,False
+2416.png-5,2416.png,lifeCycles,True,A) E,A,C,False
+2416.png-2,2416.png,lifeCycles,True,C,C,C,True
+639.png-1,639.png,lifeCycles,False,C,C,C,True
+639.png-2,639.png,lifeCycles,False,C,C,C,True
+639.png-0,639.png,lifeCycles,True,D) C,D,C,False
+639.png-3,639.png,lifeCycles,True,C,C,B,False
+2380.png-5,2380.png,lifeCycles,True,C,C,B,False
+2380.png-1,2380.png,lifeCycles,True,D) J,D,A,False
+2380.png-2,2380.png,lifeCycles,False,C,C,C,True
+2380.png-4,2380.png,lifeCycles,False,C,C,A,False
+2380.png-3,2380.png,lifeCycles,True,D) Emerging from Chrysalis,D,A,False
+2380.png-0,2380.png,lifeCycles,True,C,C,A,False
+887.png-4,887.png,lifeCycles,False,D) Queen female,D,D,True
+887.png-2,887.png,lifeCycles,False,C,C,C,True
+887.png-1,887.png,lifeCycles,True,C,C,B,False
+887.png-3,887.png,lifeCycles,True,D) Larvae,D,A,False
+887.png-0,887.png,lifeCycles,True,C,C,B,False
+583.png-1,583.png,lifeCycles,True,D) 7,D,D,True
+583.png-2,583.png,lifeCycles,False,C) Frog,C,C,True
+583.png-0,583.png,lifeCycles,True,D) F,D,A,False
+2465.png-3,2465.png,lifeCycles,False,D) 3,D,B,False
+2465.png-4,2465.png,lifeCycles,True,C) 4,C,C,True
+2465.png-1,2465.png,lifeCycles,True,B) B,B,B,True
+2465.png-0,2465.png,lifeCycles,True,B) pupa,B,C,False
+2465.png-2,2465.png,lifeCycles,False,A) beetle,A,D,False
+2250.png-3,2250.png,lifeCycles,True,C) Stage D,C,A,False
+2250.png-2,2250.png,lifeCycles,True,D) Salmon,D,D,True
+2250.png-0,2250.png,lifeCycles,True,B) Adult salmon lays eggs,B,C,False
+2250.png-4,2250.png,lifeCycles,False,D) Salmon,D,D,True
+2250.png-1,2250.png,lifeCycles,False,B) Spring,B,B,True
+2162.png-1,2162.png,lifeCycles,True,D,D,D,True
+2162.png-0,2162.png,lifeCycles,False,B) Fly life cycle,B,B,True
+2162.png-2,2162.png,lifeCycles,True,B) G,B,C,False
+2168.png-1,2168.png,lifeCycles,True,D,D,A,False
+2168.png-2,2168.png,lifeCycles,True,D,D,B,False
+2168.png-3,2168.png,lifeCycles,True,D) C,D,D,True
+2168.png-0,2168.png,lifeCycles,True,A) D,A,A,True
+104.png-1,104.png,lifeCycles,True,C,C,C,True
+104.png-4,104.png,lifeCycles,True,D) C,D,B,False
+104.png-5,104.png,lifeCycles,False,A) larva,A,A,True
+104.png-0,104.png,lifeCycles,False,D) pupa,D,D,True
+104.png-3,104.png,lifeCycles,True,D) B,D,C,False
+104.png-2,104.png,lifeCycles,True,D) B,D,D,True
+2214.png-3,2214.png,lifeCycles,False,D) meiosis,D,D,True
+2214.png-2,2214.png,lifeCycles,False,D,D,A,False
+2214.png-4,2214.png,lifeCycles,True,A) C,A,C,False
+2214.png-0,2214.png,lifeCycles,True,C,C,D,False
+2214.png-1,2214.png,lifeCycles,True,C,C,C,True
+502.png-1,502.png,lifeCycles,True,B) B,B,C,False
+502.png-0,502.png,lifeCycles,False,C,C,C,True
+502.png-2,502.png,lifeCycles,True,D) 3,D,A,False
+2201.png-2,2201.png,lifeCycles,True,B) C,B,B,True
+2201.png-0,2201.png,lifeCycles,True,D,D,B,False
+2201.png-1,2201.png,lifeCycles,True,C,C,C,True
+2173.png-2,2173.png,lifeCycles,False,B,B,B,True
+2173.png-0,2173.png,lifeCycles,True,D) C,D,A,False
+2173.png-1,2173.png,lifeCycles,True,D) C,D,D,True
+2173.png-3,2173.png,lifeCycles,True,D) A,D,D,True
+2428.png-0,2428.png,lifeCycles,False,C,C,C,True
+2428.png-2,2428.png,lifeCycles,True,A) C,A,C,False
+2428.png-1,2428.png,lifeCycles,True,B) eggs,B,C,False
+2428.png-3,2428.png,lifeCycles,True,D) Pupa,D,D,True
+584.png-0,584.png,lifeCycles,True,C,C,C,True
+584.png-2,584.png,lifeCycles,True,B) C,B,B,True
+584.png-1,584.png,lifeCycles,False,C,C,C,True
+2141.png-1,2141.png,lifeCycles,True,C,C,C,True
+2141.png-0,2141.png,lifeCycles,True,B) The egg is fertilized,B,A,False
+2141.png-2,2141.png,lifeCycles,False,B) Pup,B,B,True
+2418.png-0,2418.png,lifeCycles,False,D,D,C,False
+2418.png-2,2418.png,lifeCycles,True,D) spore attachment,D,A,False
+2418.png-1,2418.png,lifeCycles,True,D) C,D,C,False
+2196.png-0,2196.png,lifeCycles,True,C) Larval stage,C,C,True
+2196.png-1,2196.png,lifeCycles,True,D) B,D,C,False
+2385.png-0,2385.png,lifeCycles,True,B) caterpillar,B,B,True
+2385.png-1,2385.png,lifeCycles,True,B) D,B,C,False
+2385.png-2,2385.png,lifeCycles,True,B) C,B,D,False
+48.png-4,48.png,lifeCycles,True,D) Egg,D,A,False
+48.png-5,48.png,lifeCycles,True,C,C,C,True
+48.png-3,48.png,lifeCycles,True,C,C,A,False
+48.png-0,48.png,lifeCycles,True,B) Pupa,B,C,False
+48.png-2,48.png,lifeCycles,False,A) larva,A,A,True
+48.png-1,48.png,lifeCycles,False,D) pupa,D,D,True
+1444.png-0,1444.png,lifeCycles,True,B,B,A,False
+1444.png-2,1444.png,lifeCycles,True,C,C,A,False
+1444.png-1,1444.png,lifeCycles,False,C,C,C,True
+2473.png-0,2473.png,lifeCycles,True,C,C,C,True
+2473.png-2,2473.png,lifeCycles,True,B) queen overwintering,B,D,False
+2473.png-4,2473.png,lifeCycles,False,A) death,A,A,True
+2473.png-1,2473.png,lifeCycles,True,D) Mating,D,C,False
+2473.png-3,2473.png,lifeCycles,True,C,C,B,False
+619.png-1,619.png,lifeCycles,True,D) Mature plant,D,D,True
+619.png-0,619.png,lifeCycles,True,D) C,D,D,True
+413.png-1,413.png,lifeCycles,True,B) 3,B,B,True
+413.png-0,413.png,lifeCycles,True,B) J,B,A,False
+2362.png-3,2362.png,lifeCycles,False,A) eggs,A,A,True
+2362.png-1,2362.png,lifeCycles,False,D) 4,D,D,True
+2362.png-0,2362.png,lifeCycles,True,C) b,C,D,False
+2362.png-2,2362.png,lifeCycles,True,B) Eggs,B,B,True
+2442.png-1,2442.png,lifeCycles,True,C,C,A,False
+2442.png-0,2442.png,lifeCycles,True,D) C,D,B,False
+628.png-0,628.png,lifeCycles,True,D,D,B,False
+628.png-1,628.png,lifeCycles,False,C,C,A,False
+628.png-2,628.png,lifeCycles,True,D,D,C,False
+731.png-3,731.png,lifeCycles,True,A) life cycle of the butterfly,A,A,True
+731.png-2,731.png,lifeCycles,True,D) butterfly,D,D,True
+731.png-0,731.png,lifeCycles,True,B) monarch butterfly,B,B,True
+731.png-1,731.png,lifeCycles,False,C,C,A,False
+445.png-0,445.png,lifeCycles,False,C) 3,C,C,True
+445.png-1,445.png,lifeCycles,True,B) stage 1,B,C,False
+445.png-2,445.png,lifeCycles,True,"C) A, B, C",C,B,False
+445.png-4,445.png,lifeCycles,False,D) 3,D,D,True
+445.png-3,445.png,lifeCycles,True,A) none of the above,A,C,False
+36.png-1,36.png,lifeCycles,False,A) 4,A,A,True
+36.png-0,36.png,lifeCycles,True,C,C,C,True
+2207.png-1,2207.png,lifeCycles,False,C,C,C,True
+2207.png-0,2207.png,lifeCycles,False,C) Life cycle of a bean plant,C,C,True
+2139.png-0,2139.png,lifeCycles,False,C,C,C,True
+2339.png-3,2339.png,lifeCycles,True,C,C,C,True
+2339.png-0,2339.png,lifeCycles,True,D,D,D,True
+2339.png-2,2339.png,lifeCycles,False,D) bud,D,D,True
+2339.png-1,2339.png,lifeCycles,True,C,C,C,True
+2420.png-1,2420.png,lifeCycles,True,D) C,D,A,False
+2420.png-0,2420.png,lifeCycles,False,A) Insect life cycle,A,A,True
+2420.png-2,2420.png,lifeCycles,False,A,A,A,True
+2480.png-0,2480.png,lifeCycles,False,D,D,A,False
+2146.png-4,2146.png,lifeCycles,True,C,C,B,False
+2146.png-2,2146.png,lifeCycles,True,A) E,A,A,True
+2146.png-0,2146.png,lifeCycles,True,A) shark,A,A,True
+2146.png-1,2146.png,lifeCycles,True,D) B,D,A,False
+2146.png-3,2146.png,lifeCycles,False,D) youth shark,D,A,False
+2371.png-1,2371.png,lifeCycles,False,A) Later Larva and Adult.,A,A,True
+2371.png-0,2371.png,lifeCycles,True,D) pupa,D,D,True
+2371.png-2,2371.png,lifeCycles,True,A) Pupa,A,D,False
+2450.png-1,2450.png,lifeCycles,True,C,C,A,False
+2450.png-2,2450.png,lifeCycles,True,D) A,D,D,True
+2450.png-0,2450.png,lifeCycles,True,D) A,D,D,True
+1297.png-0,1297.png,lifeCycles,True,D,D,C,False
+1297.png-4,1297.png,lifeCycles,True,D,D,C,False
+1297.png-2,1297.png,lifeCycles,True,D) Stage B,D,B,False
+1297.png-1,1297.png,lifeCycles,False,C,C,C,True
+1297.png-3,1297.png,lifeCycles,True,C,C,D,False
+2373.png-2,2373.png,lifeCycles,True,A,A,A,True
+2373.png-1,2373.png,lifeCycles,False,B,B,B,True
+2373.png-0,2373.png,lifeCycles,True,C,C,D,False
+605.png-5,605.png,lifeCycles,True,D,D,D,True
+605.png-0,605.png,lifeCycles,True,C,C,B,False
+605.png-2,605.png,lifeCycles,True,B) E,B,B,True
+605.png-1,605.png,lifeCycles,False,C,C,C,True
+605.png-4,605.png,lifeCycles,True,C,C,B,False
+605.png-3,605.png,lifeCycles,False,D) pupa,D,A,False
+2340.png-0,2340.png,lifeCycles,True,D) B,D,B,False
+2340.png-1,2340.png,lifeCycles,True,A) Adult male,A,A,True
+2340.png-2,2340.png,lifeCycles,False,C,C,A,False
+4257.png-0,4257.png,rockStrata,False,D) Soil profile,D,D,True
+637.png-0,637.png,rockStrata,False,C,C,C,True
+4297.png-1,4297.png,rockStrata,True,D) lithosphere,D,C,False
+4297.png-0,4297.png,rockStrata,False,D) asthenosphere,D,D,True
+4297.png-2,4297.png,rockStrata,False,D) lithosphere,D,D,True
+1759.png-0,1759.png,rockStrata,True,D) F,D,C,False
+1759.png-1,1759.png,rockStrata,True,C,C,A,False
+1405.png-0,1405.png,rockStrata,False,B) bedrock,B,B,True
+1405.png-1,1405.png,rockStrata,False,D) A-horizon,D,D,True
+4233.png-2,4233.png,rockStrata,True,D) breccia,D,D,True
+4233.png-1,4233.png,rockStrata,False,D) breccia,D,D,True
+4233.png-0,4233.png,rockStrata,True,B) breccia,B,A,False
+4279.png-0,4279.png,rockStrata,False,C,C,C,True
+4280.png-1,4280.png,rockStrata,False,B) bacterial actions,B,B,True
+4280.png-0,4280.png,rockStrata,False,C,C,A,False
+4258.png-1,4258.png,rockStrata,False,D,D,D,True
+4258.png-0,4258.png,rockStrata,True,D,D,D,True
+4258.png-2,4258.png,rockStrata,True,C) I,C,B,False
+4266.png-0,4266.png,rockStrata,False,D) humus,D,D,True
+1365.png-0,1365.png,rockStrata,False,A) sedimentation,A,A,True
+1492.png-3,1492.png,waterCNPCycle,False,C,C,C,True
+1492.png-1,1492.png,waterCNPCycle,True,C,C,A,False
+1492.png-0,1492.png,waterCNPCycle,True,D) condensation,D,D,True
+1492.png-2,1492.png,waterCNPCycle,True,C,C,C,True
+69.png-4,69.png,waterCNPCycle,False,C,C,C,True
+69.png-3,69.png,waterCNPCycle,False,D,D,D,True
+69.png-1,69.png,waterCNPCycle,True,D) B,D,D,True
+69.png-2,69.png,waterCNPCycle,True,A) A,A,D,False
+69.png-0,69.png,waterCNPCycle,True,D) A,D,D,True
+1503.png-0,1503.png,waterCNPCycle,True,D) Evaporation,D,C,False
+1503.png-1,1503.png,waterCNPCycle,True,D) G,D,B,False
+1503.png-3,1503.png,waterCNPCycle,True,D) D,D,A,False
+1503.png-2,1503.png,waterCNPCycle,True,C) F,C,C,True
+787.png-0,787.png,waterCNPCycle,False,B) sugar,B,B,True
+787.png-2,787.png,waterCNPCycle,True,C,C,C,True
+787.png-1,787.png,waterCNPCycle,False,D) ammonia,D,D,True
+1499.png-0,1499.png,waterCNPCycle,False,A) evapotranspiration,A,A,True
+1499.png-1,1499.png,waterCNPCycle,True,C,C,C,True
+1479.png-0,1479.png,waterCNPCycle,True,D) Precipitation,D,D,True
+1479.png-4,1479.png,waterCNPCycle,False,A) Water Cycle,A,A,True
+1479.png-3,1479.png,waterCNPCycle,True,D) B,D,C,False
+1479.png-1,1479.png,waterCNPCycle,True,D) B,D,D,True
+1479.png-2,1479.png,waterCNPCycle,True,D) B,D,C,False
+61.png-0,61.png,waterCNPCycle,False,C,C,C,True
+61.png-2,61.png,waterCNPCycle,False,C,C,C,True
+61.png-3,61.png,waterCNPCycle,True,B) Photosynthesis,B,B,True
+61.png-1,61.png,waterCNPCycle,True,A) carbondioxide,A,A,True
+61.png-4,61.png,waterCNPCycle,True,C,C,B,False
+784.png-1,784.png,waterCNPCycle,True,C,C,C,True
+784.png-2,784.png,waterCNPCycle,False,A) nitrates,A,A,True
+784.png-0,784.png,waterCNPCycle,True,A) Free Nitrogen in the Atmosphere,A,B,False
+2558.png-3,2558.png,moonPhaseEquinox,True,C) F and N,C,C,True
+2558.png-1,2558.png,moonPhaseEquinox,True,C,C,A,False
+2558.png-0,2558.png,moonPhaseEquinox,True,D,D,C,False
+2558.png-2,2558.png,moonPhaseEquinox,False,D) Half Moon,D,D,True
+2653.png-1,2653.png,moonPhaseEquinox,True,A) B,A,D,False
+2653.png-0,2653.png,moonPhaseEquinox,True,B) Vernal equinox,B,A,False
+2653.png-2,2653.png,moonPhaseEquinox,True,D) vernal equinox,D,A,False
+648.png-0,648.png,moonPhaseEquinox,False,D) spring,D,D,True
+81.png-2,81.png,moonPhaseEquinox,True,C) A and B,C,C,True
+81.png-5,81.png,moonPhaseEquinox,True,C,C,A,False
+81.png-1,81.png,moonPhaseEquinox,True,D) Moon,D,B,False
+81.png-4,81.png,moonPhaseEquinox,False,A) Sun,A,A,True
+81.png-0,81.png,moonPhaseEquinox,False,A) Earth,A,A,True
+81.png-3,81.png,moonPhaseEquinox,True,B,B,A,False
+124.png-1,124.png,moonPhaseEquinox,True,D) A,D,C,False
+124.png-0,124.png,moonPhaseEquinox,True,A) New Moon,A,C,False
+2657.png-1,2657.png,moonPhaseEquinox,True,D) A,D,B,False
+2657.png-3,2657.png,moonPhaseEquinox,True,C,C,C,True
+2657.png-0,2657.png,moonPhaseEquinox,False,C,C,C,True
+2657.png-2,2657.png,moonPhaseEquinox,True,D,D,D,True
+2591.png-4,2591.png,moonPhaseEquinox,False,C) September 23,C,C,True
+2591.png-2,2591.png,moonPhaseEquinox,True,C,C,C,True
+2591.png-5,2591.png,moonPhaseEquinox,True,D) vernal equinox,D,D,True
+2591.png-1,2591.png,moonPhaseEquinox,True,D) December,D,C,False
+2591.png-3,2591.png,moonPhaseEquinox,False,D) Summer Solstice,D,D,True
+2591.png-0,2591.png,moonPhaseEquinox,True,C,C,C,True
+2544.png-0,2544.png,moonPhaseEquinox,False,C,C,C,True
+2544.png-1,2544.png,moonPhaseEquinox,False,B,B,C,False
+2544.png-2,2544.png,moonPhaseEquinox,True,D) new moon,D,D,True
+171.png-2,171.png,moonPhaseEquinox,True,B) D,B,D,False
+171.png-1,171.png,moonPhaseEquinox,True,A) D,A,A,True
+171.png-0,171.png,moonPhaseEquinox,True,B) D,B,D,False
+120.png-0,120.png,moonPhaseEquinox,True,D) sep 22,D,D,True
+120.png-1,120.png,moonPhaseEquinox,True,A) dec 21,A,A,True
+2737.png-1,2737.png,moonPhaseEquinox,False,D) 8,D,D,True
+2737.png-0,2737.png,moonPhaseEquinox,True,B,B,A,False
+1037.png-0,1037.png,moonPhaseEquinox,False,D) 4,D,D,True
+1037.png-2,1037.png,moonPhaseEquinox,True,B) 4,B,B,True
+1037.png-3,1037.png,moonPhaseEquinox,True,D) Winter,D,D,True
+1037.png-1,1037.png,moonPhaseEquinox,True,"D) B,D",D,C,False
+126.png-1,126.png,moonPhaseEquinox,True,D) neap tide,D,A,False
+126.png-0,126.png,moonPhaseEquinox,True,C,C,C,True
+1044.png-1,1044.png,moonPhaseEquinox,False,A) summer,A,A,True
+1044.png-0,1044.png,moonPhaseEquinox,True,C,C,B,False
+1044.png-2,1044.png,moonPhaseEquinox,True,A) D,A,C,False
+1234.png-0,1234.png,moonPhaseEquinox,False,D) summer,D,D,True
+1234.png-2,1234.png,moonPhaseEquinox,True,C) Winter,C,C,True
+1234.png-4,1234.png,moonPhaseEquinox,False,D) summer,D,D,True
+1234.png-3,1234.png,moonPhaseEquinox,True,A) D,A,B,False
+1234.png-1,1234.png,moonPhaseEquinox,True,C,C,C,True
+2733.png-1,2733.png,moonPhaseEquinox,False,A) Last quarter,A,A,True
+2733.png-0,2733.png,moonPhaseEquinox,True,B) Wanining Crescent,B,B,True
+2733.png-2,2733.png,moonPhaseEquinox,True,C,C,C,True
+2691.png-2,2691.png,moonPhaseEquinox,True,D) spring,D,D,True
+2691.png-1,2691.png,moonPhaseEquinox,False,A) Winter,A,A,True
+2691.png-0,2691.png,moonPhaseEquinox,False,C,C,C,True
+2629.png-0,2629.png,moonPhaseEquinox,True,D) September 23,D,D,True
+2629.png-4,2629.png,moonPhaseEquinox,True,D,D,D,True
+2629.png-1,2629.png,moonPhaseEquinox,False,B,B,B,True
+2629.png-2,2629.png,moonPhaseEquinox,True,C,C,C,True
+2629.png-3,2629.png,moonPhaseEquinox,False,D) December 22nd,D,D,True
+748.png-1,748.png,moonPhaseEquinox,True,B) Moon,B,C,False
+748.png-0,748.png,moonPhaseEquinox,True,D) The Moon,D,B,False
+748.png-2,748.png,moonPhaseEquinox,True,A,A,A,True
+771.png-0,771.png,moonPhaseEquinox,True,C) d,C,A,False
+1244.png-2,1244.png,moonPhaseEquinox,True,C) last quarter,C,B,False
+1244.png-3,1244.png,moonPhaseEquinox,True,D) H,D,B,False
+1244.png-1,1244.png,moonPhaseEquinox,False,B) new moon,B,B,True
+1244.png-0,1244.png,moonPhaseEquinox,True,D) waning crescent,D,B,False
+2598.png-0,2598.png,moonPhaseEquinox,False,D) earth,D,D,True
+2598.png-1,2598.png,moonPhaseEquinox,False,B) moon,B,B,True
+766.png-0,766.png,moonPhaseEquinox,True,C) a,C,A,False
+766.png-1,766.png,moonPhaseEquinox,True,D) Full Moon,D,B,False
+2524.png-1,2524.png,moonPhaseEquinox,False,D) earth,D,D,True
+2524.png-0,2524.png,moonPhaseEquinox,True,A) E,A,B,False
+2572.png-0,2572.png,moonPhaseEquinox,True,D) north pole,D,D,True
+746.png-0,746.png,moonPhaseEquinox,False,C,C,C,True
+774.png-1,774.png,moonPhaseEquinox,True,B) C,B,D,False
+774.png-2,774.png,moonPhaseEquinox,True,C) away from earth,C,B,False
+774.png-0,774.png,moonPhaseEquinox,True,D) upwards,D,C,False
+774.png-3,774.png,moonPhaseEquinox,True,C,C,D,False
+2508.png-0,2508.png,moonPhaseEquinox,False,A) sun,A,A,True
+2508.png-2,2508.png,moonPhaseEquinox,True,A) B,A,B,False
+2508.png-1,2508.png,moonPhaseEquinox,True,C,C,C,True
+2508.png-3,2508.png,moonPhaseEquinox,True,D) vernal equinox,D,C,False
+2703.png-0,2703.png,moonPhaseEquinox,False,C,C,C,True
+2703.png-3,2703.png,moonPhaseEquinox,True,A) Full,A,A,True
+2703.png-2,2703.png,moonPhaseEquinox,True,C,C,D,False
+2703.png-1,2703.png,moonPhaseEquinox,True,B) A,B,C,False
+1034.png-2,1034.png,moonPhaseEquinox,True,A) A,A,B,False
+1034.png-3,1034.png,moonPhaseEquinox,True,A) D,A,B,False
+1034.png-1,1034.png,moonPhaseEquinox,True,A) C,A,A,True
+1034.png-0,1034.png,moonPhaseEquinox,True,D) C,D,B,False
+2626.png-5,2626.png,moonPhaseEquinox,True,C,C,D,False
+2626.png-0,2626.png,moonPhaseEquinox,False,A) June,A,A,True
+2626.png-2,2626.png,moonPhaseEquinox,False,B) December,B,B,True
+2626.png-1,2626.png,moonPhaseEquinox,True,C,C,C,True
+2626.png-3,2626.png,moonPhaseEquinox,True,D) Spring Equinox,D,A,False
+2626.png-4,2626.png,moonPhaseEquinox,True,B,B,C,False
+91.png-0,91.png,moonPhaseEquinox,False,B) Autumnal Equinox,B,B,True
+91.png-2,91.png,moonPhaseEquinox,False,D) June 20,D,D,True
+91.png-4,91.png,moonPhaseEquinox,True,D,D,C,False
+91.png-1,91.png,moonPhaseEquinox,True,D) A,D,A,False
+91.png-3,91.png,moonPhaseEquinox,True,C,C,A,False
+2758.png-0,2758.png,moonPhaseEquinox,True,D,D,B,False
+2758.png-2,2758.png,moonPhaseEquinox,True,C,C,A,False
+2758.png-3,2758.png,moonPhaseEquinox,False,D) Sun,D,D,True
+2758.png-1,2758.png,moonPhaseEquinox,True,B) Vernal equinox,B,D,False
+151.png-5,151.png,moonPhaseEquinox,True,A) The moon's first quarter,A,C,False
+151.png-0,151.png,moonPhaseEquinox,False,A) first and third,A,A,True
+151.png-2,151.png,moonPhaseEquinox,False,"D) sun, moon, earth",D,D,True
+151.png-1,151.png,moonPhaseEquinox,True,B,B,C,False
+151.png-3,151.png,moonPhaseEquinox,True,B) High tide,B,B,True
+151.png-4,151.png,moonPhaseEquinox,True,D) Neap tides,D,B,False
+772.png-1,772.png,moonPhaseEquinox,False,B) E,B,B,True
+772.png-0,772.png,moonPhaseEquinox,False,D) The moon's orbital motion,D,D,True
+772.png-2,772.png,moonPhaseEquinox,True,C,C,C,True
+772.png-3,772.png,moonPhaseEquinox,True,C,C,C,True
+142.png-0,142.png,moonPhaseEquinox,False,D) 4,D,B,False
+142.png-1,142.png,moonPhaseEquinox,False,B) 1,B,B,True
+142.png-2,142.png,moonPhaseEquinox,True,D) the sun,D,C,False
+2596.png-1,2596.png,moonPhaseEquinox,False,D) moon,D,D,True
+2596.png-0,2596.png,moonPhaseEquinox,True,D) earth,D,B,False
+2645.png-0,2645.png,moonPhaseEquinox,True,D) Moon,D,D,True
+2645.png-1,2645.png,moonPhaseEquinox,False,C,C,C,True
+2645.png-2,2645.png,moonPhaseEquinox,True,C,C,B,False
+164.png-0,164.png,moonPhaseEquinox,True,B) the sun,B,B,True
+164.png-1,164.png,moonPhaseEquinox,False,C,C,C,True
+164.png-3,164.png,moonPhaseEquinox,True,D) A,D,A,False
+164.png-2,164.png,moonPhaseEquinox,True,B) C,B,D,False
+2706.png-0,2706.png,moonPhaseEquinox,True,D) waxing gibbous,D,C,False
+2706.png-1,2706.png,moonPhaseEquinox,True,C,C,B,False
+2706.png-2,2706.png,moonPhaseEquinox,False,B) new moon,B,B,True
+2706.png-3,2706.png,moonPhaseEquinox,False,A) full moon,A,A,True
+2749.png-1,2749.png,moonPhaseEquinox,True,C,C,D,False
+2749.png-0,2749.png,moonPhaseEquinox,True,B,B,A,False
+2749.png-2,2749.png,moonPhaseEquinox,True,D) axis,D,B,False
+2606.png-3,2606.png,moonPhaseEquinox,True,A) Moon.,A,A,True
+2606.png-0,2606.png,moonPhaseEquinox,True,C,C,C,True
+2606.png-2,2606.png,moonPhaseEquinox,False,D) Sun,D,D,True
+2606.png-1,2606.png,moonPhaseEquinox,False,D) Moon,D,D,True
+2668.png-1,2668.png,moonPhaseEquinox,True,D) Earth,D,B,False
+2668.png-2,2668.png,moonPhaseEquinox,True,C,C,C,True
+2668.png-0,2668.png,moonPhaseEquinox,True,B) F,B,B,True
+2519.png-0,2519.png,moonPhaseEquinox,False,C,C,C,True
+2720.png-2,2720.png,moonPhaseEquinox,False,B) 8,B,B,True
+2720.png-1,2720.png,moonPhaseEquinox,True,D) First quarter moon,D,D,True
+2720.png-0,2720.png,moonPhaseEquinox,True,C,C,C,True
+2714.png-0,2714.png,moonPhaseEquinox,True,C,C,C,True
+121.png-1,121.png,moonPhaseEquinox,True,D,D,D,True
+121.png-3,121.png,moonPhaseEquinox,True,C,C,C,True
+121.png-2,121.png,moonPhaseEquinox,True,B,B,B,True
+121.png-0,121.png,moonPhaseEquinox,True,D,D,A,False
+1043.png-4,1043.png,moonPhaseEquinox,True,D) 2,D,A,False
+1043.png-2,1043.png,moonPhaseEquinox,True,D) winter solstice,D,D,True
+1043.png-0,1043.png,moonPhaseEquinox,False,B) It shows Aphelion falling upon July 3rd.,B,B,True
+1043.png-3,1043.png,moonPhaseEquinox,False,A) The Fall Equinox.,A,A,True
+1043.png-1,1043.png,moonPhaseEquinox,True,D) Dec 21,D,D,True
+1043.png-5,1043.png,moonPhaseEquinox,True,A) D,A,B,False
+2625.png-0,2625.png,moonPhaseEquinox,True,A) e,A,D,False
+2625.png-1,2625.png,moonPhaseEquinox,True,D) c,D,B,False
+2625.png-2,2625.png,moonPhaseEquinox,True,C,C,B,False
+2685.png-2,2685.png,moonPhaseEquinox,False,B) March 21,B,B,True
+2685.png-0,2685.png,moonPhaseEquinox,False,D) December 21,D,D,True
+2685.png-1,2685.png,moonPhaseEquinox,True,C,C,D,False
+2685.png-3,2685.png,moonPhaseEquinox,True,D,D,A,False
+2552.png-0,2552.png,moonPhaseEquinox,False,D,D,D,True
+2552.png-4,2552.png,moonPhaseEquinox,False,D) 8,D,D,True
+2552.png-2,2552.png,moonPhaseEquinox,True,D) H,D,D,True
+2552.png-3,2552.png,moonPhaseEquinox,True,C,C,B,False
+2552.png-1,2552.png,moonPhaseEquinox,True,D) Waning crescent,D,D,True
+2552.png-5,2552.png,moonPhaseEquinox,True,C) H,C,C,True
+2700.png-1,2700.png,moonPhaseEquinox,True,B) D,B,B,True
+2700.png-2,2700.png,moonPhaseEquinox,True,A) D,A,D,False
+2700.png-3,2700.png,moonPhaseEquinox,True,B) Waning Crescent,B,C,False
+2700.png-0,2700.png,moonPhaseEquinox,True,C,C,A,False
+2593.png-3,2593.png,moonPhaseEquinox,False,B) The Sun,B,B,True
+2593.png-1,2593.png,moonPhaseEquinox,False,B) Venus,B,B,True
+2593.png-2,2593.png,moonPhaseEquinox,True,C,C,D,False
+2593.png-0,2593.png,moonPhaseEquinox,True,B) E,B,A,False
+1232.png-2,1232.png,moonPhaseEquinox,False,C,C,C,True
+1232.png-0,1232.png,moonPhaseEquinox,False,D) Summer,D,D,True
+1232.png-1,1232.png,moonPhaseEquinox,True,B) c,B,B,True
+2674.png-0,2674.png,moonPhaseEquinox,True,D) winter,D,D,True
+2674.png-2,2674.png,moonPhaseEquinox,False,D) Spring,D,A,False
+2674.png-1,2674.png,moonPhaseEquinox,True,D) Fall,D,B,False
+2674.png-3,2674.png,moonPhaseEquinox,True,C,C,B,False
+154.png-2,154.png,moonPhaseEquinox,True,B) The North Pole,B,D,False
+154.png-0,154.png,moonPhaseEquinox,False,A) 90 Degree,A,A,True
+154.png-3,154.png,moonPhaseEquinox,True,D) B,D,D,True
+154.png-4,154.png,moonPhaseEquinox,False,C,C,C,True
+154.png-1,154.png,moonPhaseEquinox,True,B) A,B,C,False
+2630.png-0,2630.png,moonPhaseEquinox,True,B) 12 Months,B,C,False
+2630.png-2,2630.png,moonPhaseEquinox,False,B) Seasons,B,B,True
+2630.png-1,2630.png,moonPhaseEquinox,False,C,C,C,True
+2613.png-0,2613.png,moonPhaseEquinox,True,B) E & F,B,B,True
+2613.png-3,2613.png,moonPhaseEquinox,True,D) earth,D,C,False
+2613.png-4,2613.png,moonPhaseEquinox,False,B) Earth,B,B,True
+2613.png-2,2613.png,moonPhaseEquinox,True,B) C,B,B,True
+2613.png-1,2613.png,moonPhaseEquinox,True,D,D,D,True
+2650.png-1,2650.png,moonPhaseEquinox,True,D) Right Angle to Orbit,D,D,True
+2650.png-3,2650.png,moonPhaseEquinox,True,C,C,B,False
+2650.png-2,2650.png,moonPhaseEquinox,True,C,C,C,True
+2650.png-0,2650.png,moonPhaseEquinox,True,C,C,B,False
+1345.png-3,1345.png,moonPhaseEquinox,True,D) E,D,C,False
+1345.png-0,1345.png,moonPhaseEquinox,True,A) H,A,D,False
+1345.png-2,1345.png,moonPhaseEquinox,False,D) September 23,D,B,False
+1345.png-1,1345.png,moonPhaseEquinox,True,C,C,D,False
+89.png-0,89.png,moonPhaseEquinox,True,A) moon,A,C,False
+89.png-3,89.png,moonPhaseEquinox,True,D,D,B,False
+89.png-2,89.png,moonPhaseEquinox,True,B,B,B,True
+89.png-1,89.png,moonPhaseEquinox,True,B) a,B,D,False
+2677.png-0,2677.png,moonPhaseEquinox,True,C,C,D,False
+2568.png-2,2568.png,moonPhaseEquinox,True,C) G,C,A,False
+2568.png-0,2568.png,moonPhaseEquinox,True,D) Autumnal Equinox,D,B,False
+2568.png-1,2568.png,moonPhaseEquinox,False,C,C,C,True
+2574.png-1,2574.png,moonPhaseEquinox,False,C,C,A,False
+2574.png-0,2574.png,moonPhaseEquinox,False,C,C,C,True
+2574.png-2,2574.png,moonPhaseEquinox,True,D) C,D,A,False
+763.png-0,763.png,moonPhaseEquinox,True,A) 8,A,A,True
+763.png-4,763.png,moonPhaseEquinox,True,D) 8,D,D,True
+763.png-3,763.png,moonPhaseEquinox,True,C,C,A,False
+763.png-2,763.png,moonPhaseEquinox,False,D) Moon phases,D,D,True
+763.png-1,763.png,moonPhaseEquinox,False,B) Phases of the moon,B,B,True
+1351.png-1,1351.png,moonPhaseEquinox,True,C) winter solstice,C,B,False
+1351.png-5,1351.png,moonPhaseEquinox,True,D,D,C,False
+1351.png-3,1351.png,moonPhaseEquinox,False,B,B,B,True
+1351.png-4,1351.png,moonPhaseEquinox,False,C,C,C,True
+1351.png-0,1351.png,moonPhaseEquinox,True,D) G,D,A,False
+1351.png-2,1351.png,moonPhaseEquinox,True,D,D,D,True
+1656.png-0,1656.png,eclipses,False,B,B,B,True
+1656.png-2,1656.png,eclipses,True,C,C,A,False
+1656.png-1,1656.png,eclipses,True,C,C,D,False
+1668.png-0,1668.png,eclipses,False,A) Umbra,A,A,True
+689.png-0,689.png,eclipses,False,B) Sun,B,B,True
+1418.png-0,1418.png,eclipses,False,B,B,B,True
+1635.png-0,1635.png,eclipses,True,D) The Moon is between the Sun and the Earth.,D,D,True
+1628.png-0,1628.png,eclipses,False,A) moon,A,A,True
+1628.png-1,1628.png,eclipses,False,D) partial and annular,D,D,True
+1643.png-0,1643.png,eclipses,True,B) moon,B,B,True
+1643.png-1,1643.png,eclipses,True,D) moon,D,C,False
+1655.png-2,1655.png,eclipses,False,A) Moon,A,A,True
+1655.png-0,1655.png,eclipses,False,D) Moon,D,A,False
+1655.png-3,1655.png,eclipses,True,B) moon,B,B,True
+1655.png-1,1655.png,eclipses,True,C,C,C,True
+700.png-0,700.png,eclipses,False,C,C,C,True
+1636.png-1,1636.png,eclipses,True,A) B,A,B,False
+1636.png-0,1636.png,eclipses,True,D) B,D,D,True
+1414.png-0,1414.png,eclipses,True,D) Umbra,D,D,True
+1414.png-2,1414.png,eclipses,True,B) Sun and earth,B,B,True
+1414.png-1,1414.png,eclipses,False,D) air,D,A,False
+1692.png-1,1692.png,eclipses,True,B) Moon,B,B,True
+1692.png-0,1692.png,eclipses,False,B) umbra,B,B,True
+1744.png-1,1744.png,faultsEarthquakes,False,C),C,C,True
+1744.png-0,1744.png,faultsEarthquakes,True,B) strike-slip,B,B,True
+1724.png-0,1724.png,faultsEarthquakes,False,C,C,B,False
+1724.png-1,1724.png,faultsEarthquakes,False,B) hanging wall,B,A,False
+1749.png-0,1749.png,faultsEarthquakes,True,C,C,B,False
+178.png-1,178.png,faultsEarthquakes,False,B,B,B,True
+178.png-0,178.png,faultsEarthquakes,True,D) Lithosphere,D,A,False
+1747.png-0,1747.png,faultsEarthquakes,False,C,C,D,False
+1752.png-1,1752.png,faultsEarthquakes,True,B) D,B,A,False
+1752.png-0,1752.png,faultsEarthquakes,True,C,C,C,True
+189.png-0,189.png,faultsEarthquakes,False,A) Fault line,A,A,True
+189.png-1,189.png,faultsEarthquakes,True,B) Hanging wall,B,C,False
+1727.png-0,1727.png,faultsEarthquakes,True,D) fault plane,D,A,False
+1727.png-1,1727.png,faultsEarthquakes,True,C,C,A,False
+1727.png-2,1727.png,faultsEarthquakes,False,D),D,D,True
+1715.png-0,1715.png,faultsEarthquakes,True,D,D,D,True
+1715.png-1,1715.png,faultsEarthquakes,True,D) A,D,B,False
+1716.png-2,1716.png,faultsEarthquakes,False,C,C,C,True
+1716.png-0,1716.png,faultsEarthquakes,True,B) thrust,B,B,True
+1716.png-1,1716.png,faultsEarthquakes,True,D) a,D,C,False
+659.png-1,659.png,partsOfTheEarth,False,B) The layers of the earth,B,B,True
+659.png-0,659.png,partsOfTheEarth,False,B) Core,B,B,True
+549.png-0,549.png,partsOfTheEarth,True,A) D,A,A,True
+4069.png-0,4069.png,partsOfTheEarth,False,B,B,B,True
+4069.png-2,4069.png,partsOfTheEarth,False,C,C,C,True
+4069.png-1,4069.png,partsOfTheEarth,True,D,D,B,False
+4069.png-3,4069.png,partsOfTheEarth,True,B,B,B,True
+4040.png-2,4040.png,partsOfTheEarth,False,B) 3-30 miles,B,B,True
+4040.png-0,4040.png,partsOfTheEarth,False,D) core,D,D,True
+4040.png-1,4040.png,partsOfTheEarth,True,C,C,A,False
+4040.png-3,4040.png,partsOfTheEarth,True,C,C,C,True
+4041.png-0,4041.png,partsOfTheEarth,True,A) A,A,D,False
+4041.png-1,4041.png,partsOfTheEarth,True,C,C,B,False
+4056.png-0,4056.png,partsOfTheEarth,True,D) Inner Core,D,B,False
+4056.png-1,4056.png,partsOfTheEarth,False,C,C,C,True
+4003.png-0,4003.png,partsOfTheEarth,True,C,C,A,False
+4003.png-1,4003.png,partsOfTheEarth,False,A) solid,A,A,True
+550.png-2,550.png,partsOfTheEarth,True,D) A,D,D,True
+550.png-0,550.png,partsOfTheEarth,False,D) Core,D,D,True
+550.png-3,550.png,partsOfTheEarth,False,A) Crust,A,A,True
+550.png-1,550.png,partsOfTheEarth,True,A) Mantle,A,A,True
+545.png-0,545.png,partsOfTheEarth,False,A) Crust,A,A,True
+545.png-2,545.png,partsOfTheEarth,True,D) C,D,C,False
+545.png-1,545.png,partsOfTheEarth,True,C,C,B,False
+184.png-0,184.png,partsOfTheEarth,True,C,C,D,False
+541.png-1,541.png,partsOfTheEarth,False,D,D,D,True
+541.png-2,541.png,partsOfTheEarth,True,D) outer core,D,B,False
+541.png-0,541.png,partsOfTheEarth,True,D) b,D,B,False
+660.png-1,660.png,partsOfTheEarth,True,D) outer core,D,B,False
+660.png-0,660.png,partsOfTheEarth,True,D) inner core,D,C,False
+4055.png-1,4055.png,partsOfTheEarth,False,C,C,C,True
+4055.png-2,4055.png,partsOfTheEarth,True,C,C,B,False
+4055.png-0,4055.png,partsOfTheEarth,True,C,C,B,False
+4050.png-0,4050.png,partsOfTheEarth,True,C,C,B,False
+4050.png-1,4050.png,partsOfTheEarth,False,C,C,C,True
+649.png-0,649.png,partsOfTheEarth,True,C,C,C,True
+4067.png-2,4067.png,partsOfTheEarth,True,D) Mantle,D,A,False
+4067.png-1,4067.png,partsOfTheEarth,False,B) surface,B,D,False
+4067.png-0,4067.png,partsOfTheEarth,True,A) B,A,C,False
+203.png-2,203.png,other,False,A) water lily,A,A,True
+203.png-0,203.png,other,False,D,D,D,True
+203.png-1,203.png,other,False,C,C,C,True
+203.png-3,203.png,other,False,A) Sun,A,A,True
+203.png-4,203.png,other,False,C,C,C,True
+4887.png-0,4887.png,volcano,False,D) An approximately horizontal sheet of igneous rock intruded between older rock beds,D,D,True
+1458.png-0,1458.png,volcano,True,C,C,B,False
+1458.png-2,1458.png,volcano,True,C,C,A,False
+1458.png-3,1458.png,volcano,False,A) crater,A,A,True
+1458.png-1,1458.png,volcano,False,C,C,C,True
+4880.png-0,4880.png,volcano,False,C,C,C,True
+4894.png-0,4894.png,volcano,False,D,D,D,True
+4894.png-1,4894.png,volcano,True,D) a,D,C,False
+4894.png-2,4894.png,volcano,True,D) Lower mantle,D,B,False
+4856.png-0,4856.png,volcano,False,C,C,C,True
+4856.png-1,4856.png,volcano,False,C,C,C,True
+1473.png-1,1473.png,volcano,False,B) magma chamber,B,B,True
+1473.png-0,1473.png,volcano,False,A) core,A,A,True
+4899.png-0,4899.png,volcano,True,C,C,C,True
+4899.png-1,4899.png,volcano,False,B) magma chamber,B,B,True
+4843.png-1,4843.png,volcano,False,A) vent,A,A,True
+4843.png-0,4843.png,volcano,True,A) C,A,B,False
+4843.png-2,4843.png,volcano,True,B) C,B,A,False
+4875.png-1,4875.png,volcano,False,B) Cliff,B,B,True
+4875.png-0,4875.png,volcano,True,D) H,D,B,False
+374.png-1,374.png,volcano,False,A) Volcano,A,A,True
+374.png-0,374.png,volcano,False,A) Magma,A,A,True
+374.png-2,374.png,volcano,True,A) C,A,D,False
+374.png-3,374.png,volcano,True,D) Crust,D,B,False
+4166.png-5,4166.png,rockCycle,True,D) Magma,D,D,True
+4166.png-2,4166.png,rockCycle,False,C,C,C,True
+4166.png-0,4166.png,rockCycle,False,B) Rock,B,B,True
+4166.png-3,4166.png,rockCycle,True,A) C,A,C,False
+4166.png-1,4166.png,rockCycle,True,B) Rock,B,B,True
+4166.png-4,4166.png,rockCycle,True,D) K and B,D,C,False
+4224.png-2,4224.png,rockCycle,True,A) Melting,A,C,False
+4224.png-4,4224.png,rockCycle,True,D) Magma,D,A,False
+4224.png-0,4224.png,rockCycle,False,D) Because of pressure and temperature,D,D,True
+4224.png-1,4224.png,rockCycle,False,D) Rock cycle,D,D,True
+4224.png-3,4224.png,rockCycle,True,"A) Erosion, Transport, Deposition, Diagenesis",A,A,True
+4180.png-1,4180.png,rockCycle,True,C) K,C,C,True
+4180.png-4,4180.png,rockCycle,True,D) Igneouss,D,C,False
+4180.png-0,4180.png,rockCycle,True,C,C,A,False
+4180.png-3,4180.png,rockCycle,True,C,C,C,True
+4180.png-2,4180.png,rockCycle,False,C,C,C,True
+4162.png-0,4162.png,rockCycle,False,B,B,B,True
+4162.png-1,4162.png,rockCycle,False,A) rock cycle,A,A,True
+4162.png-2,4162.png,rockCycle,True,D) O,D,D,True
+4198.png-1,4198.png,rockCycle,False,D) Melting,D,B,False
+4198.png-5,4198.png,rockCycle,True,C) Igneous,C,C,True
+4198.png-0,4198.png,rockCycle,True,B) Magma,B,B,True
+4198.png-2,4198.png,rockCycle,False,C) Rock cycle in Earth's crust,C,C,True
+4198.png-4,4198.png,rockCycle,True,C,C,C,True
+4198.png-3,4198.png,rockCycle,True,A) A,A,B,False
+4187.png-0,4187.png,rockCycle,False,C,C,C,True
+4187.png-1,4187.png,rockCycle,False,A) erosion,A,A,True
+4187.png-2,4187.png,rockCycle,True,B,B,B,True
+4207.png-1,4207.png,rockCycle,True,D) Metamorphic rock,D,D,True
+4207.png-2,4207.png,rockCycle,False,D) Sedimentary,D,D,True
+4207.png-3,4207.png,rockCycle,True,C,C,B,False
+4207.png-4,4207.png,rockCycle,True,D) C,D,A,False
+4207.png-0,4207.png,rockCycle,False,A) Metamorphic,A,A,True
+4211.png-1,4211.png,rockCycle,True,D) G,D,B,False
+4211.png-2,4211.png,rockCycle,True,C,C,C,True
+4211.png-0,4211.png,rockCycle,True,A) A,A,C,False
+4169.png-1,4169.png,rockCycle,True,D,D,D,True
+4169.png-0,4169.png,rockCycle,True,D) Compaction,D,D,True
+1336.png-0,1336.png,rockCycle,False,B) Heat and pressure,B,B,True
+1336.png-1,1336.png,rockCycle,True,D) Heat and Pressure,D,A,False
+1336.png-3,1336.png,rockCycle,True,B) Sedimentary Rock,B,C,False
+1336.png-2,1336.png,rockCycle,False,C,C,C,True
+4210.png-1,4210.png,rockCycle,True,C,C,C,True
+4210.png-4,4210.png,rockCycle,True,D) A,D,A,False
+4210.png-2,4210.png,rockCycle,False,D) intrusive igneous rock,D,D,True
+4210.png-0,4210.png,rockCycle,True,D) Transport,D,B,False
+4210.png-3,4210.png,rockCycle,False,C,C,C,True
+1361.png-3,1361.png,rockCycle,False,B) 4,B,B,True
+1361.png-1,1361.png,rockCycle,True,D) Deposition,D,D,True
+1361.png-2,1361.png,rockCycle,False,B) sedimentary rocks,B,B,True
+1361.png-4,1361.png,rockCycle,True,B) weathering/erosion,B,D,False
+1361.png-5,1361.png,rockCycle,True,A) deposition,A,A,True
+1361.png-0,1361.png,rockCycle,True,B) Deposition,B,C,False
+4181.png-2,4181.png,rockCycle,True,A) By heat and pressure,A,A,True
+4181.png-1,4181.png,rockCycle,False,C,C,C,True
+4181.png-0,4181.png,rockCycle,True,D,D,D,True
+4147.png-4,4147.png,rockCycle,True,B) volcanic eruption,B,B,True
+4147.png-2,4147.png,rockCycle,False,C,C,C,True
+4147.png-0,4147.png,rockCycle,True,C,C,C,True
+4147.png-1,4147.png,rockCycle,True,D) e,D,D,True
+4147.png-3,4147.png,rockCycle,True,B) f,B,D,False
+4218.png-0,4218.png,rockCycle,False,A) Rock,A,A,True
+4218.png-1,4218.png,rockCycle,False,A) Rising,A,A,True
+4218.png-2,4218.png,rockCycle,True,D) Deposition,D,C,False
+4218.png-3,4218.png,rockCycle,True,C) I,C,D,False
+4192.png-1,4192.png,rockCycle,True,D) sedimentary rock,D,C,False
+4192.png-0,4192.png,rockCycle,False,C,C,C,True
+1267.png-1,1267.png,photosynthesisRespiration,True,A) B,A,C,False
+1267.png-0,1267.png,photosynthesisRespiration,False,D) The sun,D,D,True
+1267.png-2,1267.png,photosynthesisRespiration,False,C,C,C,True
+1267.png-3,1267.png,photosynthesisRespiration,True,C,C,C,True
+1267.png-4,1267.png,photosynthesisRespiration,True,B) D,B,D,False
+1315.png-1,1315.png,photosynthesisRespiration,False,B,B,B,True
+1315.png-0,1315.png,photosynthesisRespiration,False,A) sun,A,A,True
+1276.png-0,1276.png,photosynthesisRespiration,True,D) Carbon Cycle,D,D,True
+1277.png-2,1277.png,photosynthesisRespiration,True,D) A,D,C,False
+1277.png-3,1277.png,photosynthesisRespiration,True,D) Cardon dioxide and water,D,D,True
+1277.png-0,1277.png,photosynthesisRespiration,True,A) E,A,A,True
+1277.png-1,1277.png,photosynthesisRespiration,True,D,D,D,True
+4124.png-0,4124.png,photosynthesisRespiration,True,D) Oxygen,D,D,True
+4124.png-1,4124.png,photosynthesisRespiration,True,C) Carbon Dioxide,C,C,True
+4124.png-4,4124.png,photosynthesisRespiration,False,C,C,C,True
+4124.png-3,4124.png,photosynthesisRespiration,True,D) D,D,D,True
+4124.png-2,4124.png,photosynthesisRespiration,False,C) Sun,C,C,True
+4110.png-0,4110.png,photosynthesisRespiration,False,B) No oxygen for air,B,B,True
+4110.png-1,4110.png,photosynthesisRespiration,True,D) carbon dioxide and water from air,D,C,False
+4133.png-0,4133.png,photosynthesisRespiration,False,D) O2,D,D,True
+4133.png-1,4133.png,photosynthesisRespiration,False,A) stem,A,A,True
+4133.png-2,4133.png,photosynthesisRespiration,True,B,B,C,False
+4133.png-5,4133.png,photosynthesisRespiration,True,D) Stomates,D,B,False
+4133.png-3,4133.png,photosynthesisRespiration,True,D) Sugars,D,D,True
+4133.png-4,4133.png,photosynthesisRespiration,True,D) G,D,A,False
+1263.png-1,1263.png,photosynthesisRespiration,True,D) oxygen,D,A,False
+1263.png-3,1263.png,photosynthesisRespiration,False,A) sun,A,A,True
+1263.png-2,1263.png,photosynthesisRespiration,True,D) C,D,B,False
+1263.png-0,1263.png,photosynthesisRespiration,False,D) photosynthesis,D,D,True
+4102.png-2,4102.png,photosynthesisRespiration,True,A) D,A,C,False
+4102.png-0,4102.png,photosynthesisRespiration,True,C,C,B,False
+4102.png-1,4102.png,photosynthesisRespiration,True,C,C,B,False
+4102.png-3,4102.png,photosynthesisRespiration,True,C,C,A,False
+1261.png-0,1261.png,photosynthesisRespiration,True,A) C,A,B,False
+1261.png-1,1261.png,photosynthesisRespiration,False,C,C,C,True
+1270.png-0,1270.png,photosynthesisRespiration,True,D) Cellular Respiration,D,C,False
+1270.png-1,1270.png,photosynthesisRespiration,True,C,C,B,False
+1270.png-4,1270.png,photosynthesisRespiration,False,D) carbon dioxide and water,D,D,True
+1270.png-2,1270.png,photosynthesisRespiration,True,D) Oxygen and glucose,D,C,False
+1270.png-3,1270.png,photosynthesisRespiration,True,A) C,A,D,False
+4120.png-0,4120.png,photosynthesisRespiration,False,B) light energy,B,B,True
+4120.png-1,4120.png,photosynthesisRespiration,False,D) basic photosynthesis,D,D,True
+4120.png-3,4120.png,photosynthesisRespiration,True,A) light energy,A,A,True
+4120.png-2,4120.png,photosynthesisRespiration,True,A) Photosynthesis,A,A,True
+1274.png-0,1274.png,photosynthesisRespiration,False,B) Photosynthesis,B,B,True
+1274.png-4,1274.png,photosynthesisRespiration,True,C) A and M,C,D,False
+1274.png-3,1274.png,photosynthesisRespiration,True,D) K,D,C,False
+1274.png-1,1274.png,photosynthesisRespiration,True,B) G,B,A,False
+1274.png-5,1274.png,photosynthesisRespiration,True,A) Photosynthesis,A,A,True
+1274.png-2,1274.png,photosynthesisRespiration,False,A) Chloroplast,A,A,True
+4313.png-0,4313.png,solarSystem,False,B) Mars,B,B,True
+1437.png-0,1437.png,solarSystem,True,D) It has no moons around it,D,A,False
+1437.png-1,1437.png,solarSystem,False,C,C,C,True
+1437.png-2,1437.png,solarSystem,True,A) A,A,C,False
+1428.png-2,1428.png,solarSystem,True,C,C,B,False
+1428.png-1,1428.png,solarSystem,True,C,C,B,False
+1428.png-0,1428.png,solarSystem,False,C,C,C,True
+4302.png-1,4302.png,solarSystem,True,B,B,B,True
+4302.png-0,4302.png,solarSystem,True,D) jupiter,D,D,True
+4302.png-2,4302.png,solarSystem,False,D,D,D,True
+1429.png-0,1429.png,solarSystem,False,C,C,C,True
+1521.png-2,1521.png,atomStructure,True,D) n=0,D,A,False
+1521.png-3,1521.png,atomStructure,True,D) n=1,D,D,True
+1521.png-1,1521.png,atomStructure,False,A) n=1,A,A,True
+1521.png-0,1521.png,atomStructure,False,D) n=2,D,A,False
+1512.png-0,1512.png,atomStructure,True,D) a & b,D,C,False
+1512.png-1,1512.png,atomStructure,True,D) a,D,D,True
