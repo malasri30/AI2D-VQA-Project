@@ -1,0 +1,4 @@
+Condition,Accuracy (%),Macro F1,Cohen Kappa,abcLabel Acc (%),Descriptive Acc (%),Invalid Preds (%)
+Base (zero-shot),69.25,—,—,~69,~69,—
+Tuning A (image+Q),71.46,0.714,0.6187,42.62,89.42,0.0
+Tuning B (image+Q+annotation),88.71,0.8867,0.8493,93.29,85.86,0.0
