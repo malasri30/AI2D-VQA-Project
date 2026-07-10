@@ -1,0 +1,56 @@
+AI2D Metadata Extractor
+  Root:   /home/matty/Documents/UE_DataScience/Sem_II/Machine Learning/VLM_FInal_Project/ai2d
+  Output: ./metadata_output
+
+  Total unique image names found across all sources: 4903
+  Images dir:      4903
+  Annotations dir: 4903
+  Questions dir:   4563
+  Categories:      4903
+
+  ✓ metadata_images.csv       (4903 rows)
+  ✓ metadata_questions.csv    (15501 rows)
+  ✓ metadata_integrity.csv    (7930 issues)
+  ✓ metadata_full.json        (4903 images)
+
+──────────────────────────────────────────────────
+DATASET SUMMARY
+──────────────────────────────────────────────────
+  Total images tracked:        4903
+  With image file:             4903
+  With annotation:             4903
+  With questions:              4563
+  With category:               4903
+  Images with 0 questions:     843
+  Total questions:             15501
+  Total integrity issues:      7930
+    → ERRORs:   0
+    → WARNINGs: 2795
+    → INFOs:    5135
+
+  Category distribution:
+    partsOfA                       1395
+    typesOf                        738
+    foodChainsWebs                 689
+    lifeCycles                     547
+    moonPhaseEquinox               462
+    circuits                       153
+    partsOfTheEarth                127
+    rockCycle                      108
+    other                          107
+    rockStrata                     99
+    eclipses                       95
+    photosynthesisRespiration      93
+    volcano                        91
+    faultsEarthquakes              80
+    waterCNPCycle                  57
+    solarSystem                    40
+    atomStructure                  22
+
+  Correct answer index distribution (across all questions):
+    Index 0: 3881 questions
+    Index 1: 3976 questions
+    Index 2: 4034 questions
+    Index 3: 3610 questions
+
+  Output written to: ./metadata_output
